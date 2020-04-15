@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/robchdev/robchdev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Example project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [About the project](about)
+- [Publications](publications)
+- [Team](team)
 
 ### Markdown
 
