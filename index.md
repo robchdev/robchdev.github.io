@@ -3,7 +3,7 @@
 # Example project
 
 - [About the project](about)
-- [Publications](publications)
+- [Dittu Privacy Policy](dittu)
 - [Team](team)
 
 ### Markdown
