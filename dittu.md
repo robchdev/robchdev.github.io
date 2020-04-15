@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 Roberto Chiarella built the Dittu app as a Free app. This SERVICE is provided by Roberto Chiarella at no cost and is intended for use as is.
 
