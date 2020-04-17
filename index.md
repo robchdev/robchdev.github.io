@@ -1,14 +1,14 @@
 ## Welcome to GitHub Pages
 
-# Example project
+```# Example project
 
 - [About the project](about)
 - [Dittu Privacy Policy](dittu)
 - [Team](team)
 
-### Markdown
+```### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+``` Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 ```Syntax highlighted code block
