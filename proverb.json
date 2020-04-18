@@ -1,0 +1,1576 @@
+[{
+    "id": 1,
+    "say": "Cuamu pe' ttia non vua pe' atru non fara",
+    "text": "Non fare ad altri ciò che non vuoi fatto a te stesso",
+    "translate": "Come per te non vuoi ad altro non fare",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 2,
+    "say": "Tu si fuacu e pagghia",
+    "text": "Tu sei tutto fumo",
+    "translate": "Tu sei fuoco di paglia",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 3,
+    "say": "Chi simini ricuagghi",
+    "text": "Si raccoglie ciò che si semina",
+    "translate": "Quello che semini raccogli",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 4,
+    "say": "Potifaru e puarcu si sapa quantu ava dopu muartu",
+    "text": "",
+    "translate": "Bottegaio e maiale si sa quanto hanno dopo che sono morti",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 5,
+    "say": "U suricia li dissa a la nucia:dammi tiampu ca ti cupu",
+    "text": "Ogni cosa si ottiene con il tempo",
+    "translate": "Il topo disse alla noce: dammi tempo che ti buco",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 6,
+    "say": "Sparagna 'a tina, quandu è chijna",
+    "text": "Risparmia quando possiedi",
+    "translate": "Risparmia il tinozzo quando è pieno",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 7,
+    "say": "Paura guarda vigna e no' sipala",
+    "text": "Il ladro non è fermato dalla siepe, ma dalla paura di essere sorpreso dal padrone",
+    "translate": "La paura guarda la vigna, ma non la siepe",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 8,
+    "say": "Quando vidi 'u porciaddhu curra cu' curtiaddhu",
+    "text": "Bisogna sempre approfittare dell'occasione",
+    "translate": "Quando vedi il maiale corri con il coltello",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 9,
+    "say": "Lupu non mangia lupu",
+    "text": "I simili si rispettano",
+    "translate": "Il lupo non mangia il lupo",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 10,
+    "say": "Cu mina prima mina tremandu, cu mina doppu mina rumbandu",
+    "text": "Il provocato reagisce con più forza",
+    "translate": "Chi picchia prima picchia tremando, chi picchia dopo picchia più forte",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 11,
+    "say": "U puarcu è a la muntagna e l'acqua gugghia",
+    "text": "Chi desidera fare una cosa senza che ancora ne abbia la possibilità",
+    "translate": "Il maiale è alla montagna e l'acqua bolle",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 12,
+    "say": "Giugnu, lugliu, agustu, mugghiera mia non ti canusciu",
+    "text": "In questi mesi il lavoro dei contadini è enorme",
+    "translate": "Giugno, luglio, agosto, moglie mia non ti conosco",
+    "origin": "Borgia(CZ)"
+  },
+  {
+    "id": 13,
+    "say": "A frevaru 'i notti ccu i jorni vannu pari",
+    "text": "A febbraio le ore di luce e quelle serali sono di ugual lunghezza.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 14,
+    "say": "A li Morti a niva a li porti, a li Santi a niva a li canti.",
+    "text": "Il giorno dei defunti l'inverno è alle porte, il giorno dei santi è gia arrivato.",
+    "translate": "Ai morti la neve porti, ai santi la neve canti",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 15,
+    "say": "A lu medicu e 'u cumpessura s'ava 'e dira 'a verità.",
+    "text": "Al medico e al confessore si deve dire la verità.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 16,
+    "say": "Armi, cavaddhi e mugghieri non si'mpresentanu volentieri.",
+    "text": "Armi, cavalli e mogli non si prestano.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 17,
+    "say": "A tuttu cc'è riparu, nno a la morta.",
+    "text": "A tutto c'è riparo, no alla morte.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 18,
+    "say": "Carceru, malatia e necessità scumbugghianu 'u cora e l'amici.",
+    "text": "Il carcere, la malattia e la necessità sconvolgono il cuore e gli amici.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 19,
+    "say": "Cu campa e speranza disperatu mora.",
+    "text": "Chi vive di speranza muore disperato.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 20,
+    "say": "Cu cusa e scusa non perda tempu mai.",
+    "text": "Chi lavora e disfa quello che ha fatto non perde mai tempo.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 21,
+    "say": "Cu è a mara naviga, cu è 'nterra giudica.",
+    "text": "Chi è a mare naviga, chi è sulla terra ferma guidica.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 22,
+    "say": "Cu sta bbonu e non è 'mprigiunatu si ssi lagna 'on ava ragiuna.",
+    "text": "Chi sta bene (di salute)e non è carcerato non ha ragione di lamentarsi.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 23,
+    "say": "Cu ti vò bena ti fa ciangira, cu ti vò mala ti fa ridira.",
+    "text": "Chi ti vuole bene ti fa piangere, chi ti vuole male ti fa ridere.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 24,
+    "say": "Cu vo nu maritu bbonu fa 'a novina a sant'Antoniu.",
+    "text": "Chi vuole un buon marito fa la novena a sant'Antonio.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 25,
+    "say": "Ccu 'u gaddru e senza gaddru Diu fa jornu.",
+    "text": "Con il gallo o senza il gallo Dio fa giorno.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 26,
+    "say": "Dassamu fara a Ddiu cch'è santu vecchiu.",
+    "text": "Affidiamoci alla saggezza di Dio.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 27,
+    "say": "De' toi fujia cchiù cchi poi.",
+    "text": "Dai tuoi (famigliari) scappa piu che puoi.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 28,
+    "say": "Diu ma ti libera d'o 'u malu vicinu e d'o 'u principianta e violinu.",
+    "text": "Dio ma ti libera dal cattivo vicino e dal principiante di violino.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 29,
+    "say": "Duva trasa 'u sula 'on trasa 'u medicu.",
+    "text": "Dove entra il sole non entra il medico.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 30,
+    "say": "Dissa u suriciu ala nucia, dammi tempo ca ti perciu!",
+    "text": "Disse il topo alla noce, dammi tempo che ti apro!",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 31,
+    "say": "Fighiu e gattu, surici pijia.",
+    "text": "Tale padre tale figlio.",
+    "translate": "Il figlio del gatto prende il topo.",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 32,
+    "say": "Gabbu cogghia, jestima no.",
+    "text": "L'invidia colpisce, il malocchio no.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 33,
+    "say": "I lignati fannu abati.",
+    "text": "Le legnate, le batoste fanno abati.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 34,
+    "say": "I ciucci si 'mbriganu e i varili si sgascianu.",
+    "text": "Gli asini litigano e le botti si rompono.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 35,
+    "say": "A morta: a cu conza e a cu sconza.",
+    "text": "La morte: a chi aggiusta e a chi disfa.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 36,
+    "say": "L'acqua 'e giugnu ruvina 'u mundu.",
+    "text": "L'acqua di giugno rovina il mondo.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 37,
+    "say": "L'amuri 'e luntanu è comu l'acqua nto panaru.",
+    "text": "Gli amori lontani, sono come l'acqua nel cesto del pane.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 38,
+    "say": "L'erba cchi non voi ti nescia all'ortu.",
+    "text": "L'erba che non vuoi cresce nel tuo orto.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 39,
+    "say": "Megghiu arrostu ca fumu.",
+    "text": "Meglio arrosto che fumo.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 40,
+    "say": "Quandu canta 'u cucù 'u vernu non c'è cchiù.",
+    "text": "Quando cantano gli uccellini l'inverno non c'è piu.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 41,
+    "say": "Quandu è destinatu 'e Ddiu, mori allu scuru puru ma si figghiu e mastru candilaru.",
+    "text": "Quando è destinato, è deciso da Dio, muori al buio anche se sei figlio di un artigiano che fa candele.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 42,
+    "say": "U cunzigghiu cchi non si paga non si pigghia.",
+    "text": "Il consiglio che non si paga non si prende.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 43,
+    "say": "U mundu è cchinu 'e 'mbrogghi nu si ti liga, nu si ti sciunda.",
+    "text": "Il mondo è pieno di imbrogli un si ti lega, un si ti scioglie.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 44,
+    "say": "U pignataru minta 'u manicu duva vò.",
+    "text": "Chi fa le pentole mette il manico dove vuole.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 45,
+    "say": "chiddu cchi dassi è perdutu",
+    "text": "Quello che lasci è perduto",
+    "translate": "Ciò che non abbiamo osato, abbiamo certamente perduto.",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 46,
+    "say": "Quandu canta la cicala, addunati ala ficara.",
+    "text": "Quando canta la cicala, i fichi sono maturi.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 47,
+    "say": "Quandu canta la cicala, addunati ala ficara.",
+    "text": "Quando canta la cicala, i fichi sono maturi.",
+    "translate": "",
+    "origin": "Catanzaro"
+  },
+  {
+    "id": 48,
+    "say": "A cuccagna vene da campagna.",
+    "text": "La cuccagna viene dalla campagna (che è fonte di ricchezza).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 49,
+    "say": "A jennaru puta paru, ma 'u veru putàzzu è llu mise e marzu.",
+    "text": "",
+    "translate": "A gennaio pota in modo massiccio, ma la vera potatura deve avvenire nel mese di marzo.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 50,
+    "say": "A neglia vascia 'u malu tiampu lassa.",
+    "text": "La nebbia bassa lascia il cattivo tempo.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 51,
+    "say": "A piacura ppe' ricchizza, 'a vacca ppe' randizza.",
+    "text": "Il possesso della pecora dà ricchezza, quello della vacca autorità",
+    "translate": "La pecora per ricchezza, la vacca per grandezza.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 52,
+    "say": "A Santu Benedittu `u primu fischìettu.",
+    "text": "",
+    "translate": "A San Benedetto (si fa) il primo fischietto (zufolo).",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 53,
+    "say": "A vigna è na tigna.",
+    "text": "La vigna è una tigna (perché richiede culture difficili).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 54,
+    "say": "A vigna vo'gente e sordi.",
+    "text": "La vigna ha bisogno di molti operai e di molte spese",
+    "translate": "La vigna vuole gente e soldi",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 55,
+    "say": "Ad arveru cadutu accetta accetta, ognunu curre ccu' Ia sua cugnata.",
+    "text": "Morale: tutti si accaniscono su chi cade",
+    "translate": "Ad albero caduto si taglia con la scure e ognuno corre per dare il proprio colpo. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 56,
+    "say": "Agustu cucìna e settembre minèstra",
+    "text": "Nel mese di agosto maturano tutti i prodotti agricoli; a settembre se ne inizia il consumo mangiando la minestra.",
+    "translate": "Ad agosto cucina e a settembre minestra",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 57,
+    "say": "Agustu è capu é vìarnu.",
+    "text": "Morale: nel momento in cui la natura raggiunge il suo massimo splendore (agosto) inizia la decadenza (l'inverno)",
+    "translate": " Agosto è il capo dell'inverno.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 58,
+    "say": "Alìve e ficu: trattàlli `e nimicu.",
+    "text": "Ulivi e fichi: trattali da nemico (cioè potali drasticamente).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 59,
+    "say": "All'ùartu curtàglia, allu mundu furtùna.",
+    "text": " All'orto (ci vuole) concime, al mondo (ci vuole) fortuna.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 60,
+    "say": "Alla Candilora `a vernàta è menza intra e menza fore.",
+    "text": "Alla Candelora (il 2 di febbraio) l'invernata è mezza dentro e mezza fuori (l'invernata è passata solo a metà).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 61,
+    "say": "Alla squagliata d'a nive parenu `e petre.",
+    "text": "La situazione reale emerge dopo che è stata rimossa la coltre temporanea che la ricopre",
+    "translate": "Alla liquefazione della neve appaiono le pietre.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 62,
+    "say": "Alla terra dàlle, cà te duna.",
+    "text": "",
+    "translate": "Alla terra dai, ché ti darà.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 63,
+    "say": "U malu zappature se scugna sempre `u zappune.",
+    "text": "Chi non ha voglia di lavorare trova sempre pretesti",
+    "translate": "Al cattivo zappatore si smanica sempre la zappa. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 64,
+    "say": "Annu `e cumete: annu `e caristia. Annu nivusu: annu fruttusu.",
+    "text": "",
+    "translate": "Anno di comete: anno di carestia. Anno nevoso: anno fruttuoso.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 65,
+    "say": "Aprile: quandu chjange e quandu ride.",
+    "text": "Aprile: quando piange e quando ride (il tempo è variabile).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 66,
+    "say": "Cchiù pende, cchiù rende.",
+    "text": "Più [il ramo] pende, più frutti ha",
+    "translate": "Più pende, più rende. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 67,
+    "say": "Chine zappa ridiandu, ricoglie chiangiàndu",
+    "text": "Chi zappa ridendo (frettolosamente), raccoglie piangendo (perché raccoglie poco o niente).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 68,
+    "say": "De duve trona e de dduve lampa.",
+    "text": "Essere in una situazione critica",
+    "translate": "Da dove tuona e da dove lampa. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 69,
+    "say": "Dicembre fa l'agnìalli e frevaru fa lli pìalli.",
+    "text": "A dicembre nascono gli agnelli e a febbraio si fanno le pelli perché vengono macellati",
+    "translate": "Dicembre fa gli agnelli e febbraio fa le pelli.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 70,
+    "say": "Doppu `a timpesta l ària `nchiara.",
+    "text": "Le situazioni difficili sono destinate ad accomodarsi.",
+    "translate": "Dopo la tempesta l'aria (il cielo) schiarisce.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 71,
+    "say": "Frevàru frevarùlu: ogni aggìallu ha fattu l'ùavu.",
+    "text": "Il 21 di febbraio il giorno e la notte hanno la stessa durata",
+    "translate": "Febbraio febbraruolo: ogni uccello ha fatto l' uovo.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 72,
+    "say": "Frevàru sparte paru.",
+    "text": "",
+    "translate": "Febbraio divide egualmente (il giorno e la notte).",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 73,
+    "say": "`I truoni `e marzu risbìglianu i cursùni.",
+    "text": "I tuoni di marzo risvegliano i serpenti (che sono in letargo).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 74,
+    "say": "Jennaru siccu: massaru riccu.",
+    "text": "Gennaio secco: massaro ricco",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 75,
+    "say": "L àcqua 'egiugnu ruina llu mundu",
+    "text": "L'acqua di giugno rovina il mondo (perché dannosa per i raccolti).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 76,
+    "say": "L'acqua é giugnìattu te fa vàttere 'u pìattu.",
+    "text": "L'acqua di luglio produce danni all'agricoltura",
+    "translate": " L'acqua di luglio ti fa battere il petto.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 77,
+    "say": "L àlivu arde mùartu e vivu.",
+    "text": "L'ulivo dà ottima legna da ardere e olio per la lampada: è sempre utile",
+    "translate": "L'ulivo arde (da) morto e (da) vivo",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 78,
+    "say": "L'àrcu suca l'acgua.",
+    "text": "L'arcobaleno succhia l'acqua (perché viene prima della pioggia).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 79,
+    "say": "L'arvuru cade duv'ha lla pendenza.",
+    "text": "Ognuno asseconda la sua natura",
+    "translate": "L'albero cade dove ha la pendenza.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 80,
+    "say": "L'arvuru senza fruttu tàglialu",
+    "text": "",
+    "translate": "L'albero senza frutto taglialo",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 81,
+    "say": "L'ùartu è nu pùartu",
+    "text": "L'orto è un porto (perché è fonte continua di ricchezza)",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 82,
+    "say": "L'ùartu vo l'ùaminu mùartu",
+    "text": "L'orto vuole l'uomo morto (cioè sempre a disposizione)",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 83,
+    "say": "Marzu marzicchiu: nu pocu chiove e nu pocu m àssulìcchiu",
+    "text": "A marzo pioggia e bel tempo si alternano",
+    "translate": "Marzo, marzicchio: un poco piove e un poco prendo il sole.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 84,
+    "say": "Mìagliu nu savùcu avanti à porta ca'nu fagu alla muntagna.",
+    "text": "È preferibile un bene modesto raggiungibile, che uno più importante però molto distante",
+    "translate": "Meglio un sambuco (improduttivo) davanti alla porta, che un faggio (utile) in montagna.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 85,
+    "say": "Miercurì intra: simana fore.",
+    "text": "Quando arriva il mercoledì, la settimana può considerarsi finita.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 86,
+    "say": "Ppe' n'annu sanu se sbriglia e se sbroglia, ma alla ricòta se pàranu i inbruagli.",
+    "text": "Per tutto l'anno si soffre e si spera, ma i risultati si vedono alla fine.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 87,
+    "say": "Ppe' Sant Andria `u bùanu massaru simminàtu avìa",
+    "text": "Per (il giorno di) Sant'Andrea (30 novembre) il buon massaro ha già seminato.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 88,
+    "say": "Prima 'e Natale nu passu é cane; é Natale in pue 'nu passu 'e vue.",
+    "text": "Il giorno cresce, prima di Natale, lentamente; dal Natale in poi, più velocemente",
+    "translate": "rima di Natale un passo di cane; da Natale in poi un passo di bue.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 89,
+    "say": "Quandu chiove a San Giuànni, tiritùpputi 'e castagne.",
+    "text": "Quando piove a San Giovanni (24 giugno), cadono le castagne prima di essere mature",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 90,
+    "say": "Quandu chiove ad agustu, né uagliu né mustu",
+    "text": "Quando piove ad agosto, né olio né mosto",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 91,
+    "say": "Quandu 'u pìarsicu matura 'u jumu ccu la notte se misura.",
+    "text": "Quando maturano le pesche, il giorno e la notte hanno la stessa durata",
+    "translate": "Quando il pesco matura il giorno con la notte si misura. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 92,
+    "say": "Russu 'e matina: prepara 'a tina.",
+    "text": "(Cielo) rosso al mattino: prepara il tino (perché pioverà).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 93,
+    "say": "Si aprile 'un fosse 'ntra l'annu, un ce forra dannu.",
+    "text": "Se aprile non fosse (esistesse) nell'anno, non ci sarebbe danno (perché perdurano le gelate).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 94,
+    "say": "Si sìmmini spine un po' jìre scàuzu.",
+    "text": "Se ti comporti male, stai attento alle conseguenze del tuo operato",
+    "translate": "Se semini spine non puoi andare scalzo.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 95,
+    "say": "Si vue assai mustu, zappa 'a vigna 'u mise 'e agustu.",
+    "text": "Se vuoi assai mosto, zappa la vigna nel mese di agosto.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 96,
+    "say": "Quandu chiove un sicca nente.",
+    "text": "",
+    "translate": "Quando piove non secca niente",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 97,
+    "say": "Quandu jure lla brunera è venuta primavera",
+    "text": "",
+    "translate": "Quando fiorisce l'erica è arrivata la primavera.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 98,
+    "say": "Quandu lampa, scampa; quandu trona, chiove.",
+    "text": "i fulmini segue il sereno, ai tuoni la pioggia",
+    "translate": " Quando ci sono i lampi, finisce di piovere; quando tuona, piove.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 99,
+    "say": "Si vue inchìre 'u granàru, zappulìa 'u mise 'e jennaru",
+    "text": "",
+    "translate": "Se vuoi riempire il granaio, zappetta il mese di gennaio.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 100,
+    "say": "Sìmmina quandu vue, cà a giugnu mìati",
+    "text": "",
+    "translate": "Semina quando vuoi, perché a giugno mieterai.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 101,
+    "say": "Tardu vindìma chine vo' bùanu 'u vinu.",
+    "text": "Tardi vendemmia chi vuole il vino buono.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 102,
+    "say": "U citrulu va 'n culu all'uartulànu",
+    "text": "I danni si ripercuotono proprio su chi ha prodotto le cose a fin di bene",
+    "translate": "Il cetriolo va in culo all'ortolano.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 103,
+    "say": "U d'abbàsta ppe' settembre chillu ch'a lugliu se ricòglie.",
+    "text": "Non è abbastanza per settembre quello che a luglio si raccoglie.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 104,
+    "say": "Ufriddu é marzu trase 'ntra 'e corne d'e vitellazzi",
+    "text": "Il freddo di marzo è particolarmente pungente",
+    "translate": "Il freddo di marzo penetra nelle corna dei vitelloni.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 105,
+    "say": "U mìagliu vinu se fice acitu",
+    "text": "Si dice a proposito della delusione provocata dalle persone più care",
+    "translate": "Il miglior vino si fece aceto.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 106,
+    "say": "U sabatu se chiama allegracòri, ca à dumìnica tràsenu i dinàri",
+    "text": "Il sabato si chiama allegracuori, perché la domenica arrivano i denari (della paga o dei commerci)",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 107,
+    "say": "U vìantu é marzu inprena l'àrberatùra",
+    "text": "",
+    "translate": "Il vento di marzo feconda l'alberatura",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 108,
+    "say": "Ventu 'e marzu: addùru é primavera",
+    "text": "Vento di marzo: odore di primavera.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 109,
+    "say": "Zappatu 'e fimmina e aràtu é vacca: amara chilla terra chi 'nce 'ncappa.",
+    "text": "Terra zappata dalla donna e terra arata dalla vacca: amara quella terra che v'incappa (perché i risultati non saranno eccellenti).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 110,
+    "say": "A bellizza è lla meglia dota.",
+    "text": "La bellezza è la dote migliore.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 111,
+    "say": "A case 'e pezzìanti 'un mancanu tozze.",
+    "text": "Alle case dei pezzenti non mancano tozzi (di pane).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 112,
+    "say": "A chine se curca ccu' mamma ú chiamu tata",
+    "text": "A chi va a letto con mamma lo chiamo papà",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 113,
+    "say": "A chine te caccia llu pane, càcciacce à vita.",
+    "text": "A chi ti toglie il pane, togligli la vita.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 114,
+    "say": "A donna chi 'un rispunde a prima vuce, è signu ca 'u cantàre ún le piace",
+    "text": "",
+    "translate": "La donna che non risponde alla prima voce, è segno che il cantare non le piace (cioè è insensibile a chi la chiama).",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 115,
+    "say": "A figlia a quindici anni o 'a mariti o 'a scanni.",
+    "text": "La figlia (giunta) a quindici anni o la mariti o la uccidi.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 116,
+    "say": "A fimmina destra conza lla minestra.",
+    "text": "La femmina destra (attiva) prepara la minestra (nel senso che sa il fatto suo).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 117,
+    "say": "A fimmina maritata è misa all'onure do mundu.",
+    "text": "La femmina maritata è messa all'onore del mondo. (Deve essere, perciò, onorata da tutti).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 118,
+    "say": "A fimmina senza statu, è cumu 'u pane senza levatu.",
+    "text": "La femmina senza stato (nubile), è come il pane senza lievito.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 119,
+    "say": "A furtuna è d'e civette.",
+    "text": "Spesso hanno maggiore fortuna proprio quelle donne che si comportano in modo più disinibito e accattivante",
+    "translate": "La fortuna è delle civette.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 120,
+    "say": "A gente senza figli, né dinari né cunsiglie.",
+    "text": "A gente senza figli, non chiedere) né aiuto né consigli (perché non sono in grado di darne).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 121,
+    "say": "A 'nimicizia tra maritu e mugliere d'u focularu allu lìattu reje.",
+    "text": "L'inimicizia tra marito e moglie regge dal focolare al letto (dura poco).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 122,
+    "say": "A pignata alla cumuna 'un vulle mai.",
+    "text": "La pignatta in comune non bolle mai. (Le attività in comune non producono risultati).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 123,
+    "say": "A vita senza bella è 'nu castìgu",
+    "text": "La vita senza (la) bella (donna) è un castigo",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 124,
+    "say": "Ama a chine t àma e rispùnde a chi te chiama.",
+    "text": "Sii disponibile verso chi ti vuole bene",
+    "translate": "Ama chi ti ama e rispondi a chi ti chiama.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 125,
+    "say": "Ama core gentile e fàcce l'anni e ccu tamàrri un fare disigni",
+    "text": "Ama il cuore gentile e facci gli anni (dedicagli il tuo tempo) e con i tamarri (villani) non progettare iniziative future.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 126,
+    "say": "Ama l'amicu tue ccu li vizzi sue.",
+    "text": "Ama l'amico tuo con i vizi suoi.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 127,
+    "say": "Amàre chi un t'ama è tiampu piarsu.",
+    "text": "Amare chi non t'ama è tempo perso.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 128,
+    "say": "Amànru chine sta 'mpintu all'amure: 'na vota nasce e n'atre cìantu more.",
+    "text": "Amaro chi sta appeso all'amore: una volta nasce e altre cento muore.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 129,
+    "say": "Amure e tusse 'cin se pùanu ammucciàre.",
+    "text": "Amore e tosse non si possono nascondere",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 130,
+    "say": "Avire 'na bella minna.",
+    "text": "Detto di chi dispensa ricchezza",
+    "translate": "Avere una bella mammella.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 131,
+    "say": "Ccu' nessunu pùazzu, ma ccu' muglierma pùazzu",
+    "text": "Con nessuno ho autorità e con mia moglie ce l'ho",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 132,
+    "say": "Chine ama llu prìavite e cchìne 'a previtèra",
+    "text": "Chi apprezza il prete e chi la (sua) perpetua.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 133,
+    "say": "Chine ha pane 'e jermana 'un more de fame",
+    "text": "Chi ha pane di segale non muore di fame",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 134,
+    "say": "Chine ppe' dinari 'na brutta se piglia, 'un trova cumpessure mu l'assorve",
+    "text": "Chi per denari una brutta (donna) si sposa, non trova confessore che l'assolva",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 135,
+    "say": "Chine s ànnamura de' capillu e dente s ànnamura de nente.",
+    "text": "Perché s'innamora di cose futili e non essenziali",
+    "translate": "Chi s'innamora dei capelli e del sorriso s'innamora di niente",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 136,
+    "say": "Chine se 'nzura è ccutìantu nu jurnu, chine s'ammazza llu puarcu è cuntìantu 'nannu",
+    "text": "Chi si sposa è contento (per) un giorno solo, chi ammazza il maiale è contento per un anno intero",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 137,
+    "say": "Chine tene 'a mogliere bella sempre canta; chine tene dinari, sempre cunta",
+    "text": "Chi tiene la moglie bella, sempre canta; chi possiede denari, sempre (li) conta",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 138,
+    "say": "Chine te sta intra: o te 'ncorna o te scorna.",
+    "text": "Chi ti sta dentro (casa): o ti cornifica o ti toglie le corna (nel senso che o ti rovina o ti aiuta).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 139,
+    "say": "Chine nu'ha ùaminu ud ha nume.",
+    "text": "Chi non ha uomo (marito) non ha nome.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 140,
+    "say": "Chine un rispetta mamma e tata, èrramu si 'nde va lla strata strata.",
+    "text": "Morale: rispetta e dai ascolto ai genitori",
+    "translate": "Chi non rispetta la mamma e il padre ramingo va di strada in strada. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 141,
+    "say": "Ciccu toccame, cà mamma vo'",
+    "text": "Morale: assumi l'iniziativa, che sarò consenziente",
+    "translate": "Cicco toccami, perché la mamma vuole.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 142,
+    "say": "Cu si faci i cazzi soi campa cent'anni",
+    "text": "Chi si fa i fatti propri, vive cento anni.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 143,
+    "say": "Cumportate bùanu, ca te vene llu partitu bùanu.",
+    "text": "Avrai buone occasioni",
+    "translate": "Comportati bene che arriverà il partito buono.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 144,
+    "say": "Dulure 'e gumiti e de fimmina è pisante, ma dura pocu.",
+    "text": "Dolore di gomiti e di femmina è pesante, ma dura poco.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 145,
+    "say": "Duluri 'e core: duluri é mole.",
+    "text": "Gli uni sono intollerabili come gli altri, ma non hanno lunga durata",
+    "translate": "Dolori di cuore: dolori di denti.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 146,
+    "say": "Duve ci nd'è unu, c'è la mala furtuna",
+    "text": "Morale: elogio della famiglia numerosa",
+    "translate": "Dove c'è n'è uno (figlio solo), c'è la cattiva fortuna",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 147,
+    "say": "Duve è llu lìattu c'è l'affiattu.",
+    "text": "Dove c'è il letto c'è l'affetto",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 148,
+    "say": "Dove ún c'è amure, 'un c'è carità.",
+    "text": "Dove non c'è amore, non c'è carità",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 149,
+    "say": "E coma de'suaru su de oru, chille de'parìanti su' d'argiantu.",
+    "text": "Le corna delle sorelle sono d'oro, quelle degli altri parenti sono di argento (perché portano vantaggi).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 150,
+    "say": "E corna mintenu corna.",
+    "text": "Le corna mettono corna.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 151,
+    "say": "È mìagliu ccu' 'nu giùvane godire ca ccu' 'nu vìacchju cuntare dinàri.",
+    "text": "Meglio con un giovane godere che con un vecchio contare denari",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 152,
+    "say": "E nore: cacciàlle fore",
+    "text": "Le nuore: cacciale fuori",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 153,
+    "say": "Figli picculi: guai picculi; figli randi: guai randi.",
+    "text": "Figli piccoli: guai piccoli; figli grandi: guai grandi.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 154,
+    "say": "Fìmmine e vinu fanu perdìre 'a capu.",
+    "text": "Femmine e vino fanno perdere la testa",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 155,
+    "say": "Galli 'e primu cantu, fimmine é primu pilu",
+    "text": "Scegli il gallo di primo canto e la donna di prìmo pelo",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 156,
+    "say": "I matrimmùani tra parianti portanu guai e stianti.",
+    "text": "I matrimoni fra parenti portano guai e stenti",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 157,
+    "say": "I neputi pùtali; e si tornanu a jettare, tornali a putare",
+    "text": "I nipoti potali; e se tornano a germogliare tornali a potare (cioè sii con i tuoi parenti inflessibile).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 158,
+    "say": "I niputi te putanu.",
+    "text": "I nipoti ti sottraggono quanto possono.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 159,
+    "say": "L'amure 'un guarda ricchizza.",
+    "text": "L'amoré non guarda (non tiene conto della) ricchezza.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 160,
+    "say": "L'anima a Diu e la robba a chine resta.",
+    "text": "L'anima a Dio e la proprietà agli eredi.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 161,
+    "say": "L'úaminu gelusu more curnutu.",
+    "text": "L'uomo geloso muore cornuto.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 162,
+    "say": "Matrimmùanu tra parianti: guai e turmianti.",
+    "text": "Matrimonio tra parenti: guai e tormenti",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 163,
+    "say": "Miagliu ngalera chjangiandu, ca cumutu ridiendu",
+    "text": "Meglio in galera piangendo e non cornuto ridendo",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 164,
+    "say": "Sutta l'ugna c'è la carne",
+    "text": "Sotto l'unghia (l'apparenza) c'è la carne (la sostanza). (La parentela di sangue ha la sua importanza)",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 165,
+    "say": "Tinta e amara 'a maritata ccu' la socera e 'a canata.",
+    "text": "Infelice e misera la sposa (che convive) con la suocera e la cognata.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 166,
+    "say": "Tira cchiù 'nu pilu all'iartu ca 'nu sciartu allu pendinu.",
+    "text": "Tira (motiva) più un pelo (di donna) in salita che una grossa corda in discesa",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 167,
+    "say": "Udulure da' mugliere morta, dura sina alla porta",
+    "text": "Il dolore per la mo glie morta dura fino all'uscita dalla porta di casa",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 168,
+    "say": "U matrimmùanu úd è filu 'e vena, ma guerra 'e campagna",
+    "text": "Il matrimonio non è un filo d'avena, ma una guerra di campagna. (È un compito impegnativo).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 169,
+    "say": "A cridènza è morta e llu malu pagature l'hanu ammazzatu.",
+    "text": "Il credito è morto e l'insolvente l'hanno ucciso",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 170,
+    "say": "A dota passa supra 'u fuacu e 'un se vrùscja",
+    "text": "I beni dotali hanno tali e tanti vincoli che non si possono sperperare",
+    "translate": "La dote passa sul fuoco e non si brucia. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 171,
+    "say": "A furtuna muta cumu 'a luna.",
+    "text": "La fortuna cambia come la luna.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 172,
+    "say": "A parola è strumiantu.",
+    "text": "La parola data vale un contratto.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 173,
+    "say": "A ricchizza è d'u diavulu e lu diavulu 'a cumanda.",
+    "text": "La ricchezza è del diavolo e il diavolo la comanda",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 174,
+    "say": "A robba d'u cunnu, se perde ppe' llu mundu.",
+    "text": "I beni conseguiti attraverso il sesso, si perdono per il mondo.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 175,
+    "say": "A robba sta ccu' chine à sa tenìre",
+    "text": "Gli averi stanno con chi li sa custodire",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 176,
+    "say": "A robba va e vene",
+    "text": "La ricchezza va e viene",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 177,
+    "say": "Affùcate 'a 'nu mare rande.",
+    "text": "Bisogna sempre assecondare la corrente per avere vantaggi persona li: elogio dell'utilità del conformismo",
+    "translate": "Se ti affoghi, fallo in un mare grande",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 178,
+    "say": "All'arrizzicu sta llu guadagnu",
+    "text": "Uno dei pochi detti di stampo 'imprenditoriale'",
+    "translate": "Al rischio è strettamente legato il guadagno. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 179,
+    "say": "Amàru chine ha de dare e chine ha d'avire.",
+    "text": "I debiti e i crediti difficilmente si onorano",
+    "translate": "Guai per chi ha da dare e per chi deve avere",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 180,
+    "say": "Cala cà vindi.",
+    "text": "Accontentati del necessario e non avere grandi pretese",
+    "translate": "Diminuisci il prezzo e venderai.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 181,
+    "say": "Campa cà vidi e sarva cà truavi.",
+    "text": "Campa e vedrai, conserva e troverai",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 182,
+    "say": "Chine fa debiti 'un va carceratu",
+    "text": "Chi contrae debiti non va in galera (perché li deve pagare).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 183,
+    "say": "Chine ha mangia; e chine ud' ha s'annetta lli dianti.",
+    "text": "Chi possiede mangia; e chi non possiede si pulisce i denti (senza masticare).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 184,
+    "say": "Chine paga priastu paga due vote.",
+    "text": "Chi paga prima paga due volte (perché il servizio non gli viene reso come si dovrebbe).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 185,
+    "say": "Chine preggia s'allèggia",
+    "text": "Chi garantisce per gli altri, perde del suo",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 186,
+    "say": "Chine spende assai, spende pocu",
+    "text": "Chi spende molto spende poco (perché acquista beni di qualità che durano nel tempo).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 187,
+    "say": "Chine troppu l'affina, à spezza",
+    "text": "Chi sottilizza troppo, rischia di perdere tutto",
+    "translate": "Chi troppo l'affina, la spezza",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 188,
+    "say": "Chine 'un tene casa e uartu, è 'n'ùaminu muartu",
+    "text": "Chi non ha beni, non esiste, nel senso che non è considerato",
+    "translate": "Chi non tiene casa e orto, è un uomo morto.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 189,
+    "say": "Chine 'un tene nente 'un perde nente",
+    "text": "Chi non ha nulla, non ha da perdere nulla.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 190,
+    "say": "Chine va alla fera senza dinaru, va cuntiantu e se ricoglie amaru.",
+    "text": "Chi si reca in fiera senza soldi, va contento e torna amareggiato (perché non può acquistare niente).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 191,
+    "say": "Creditu 'un caccia debbitu.",
+    "text": "Contrarre altri debiti per fare fronte ai debiti, non li annulla, anzi peggiora la situazione",
+    "translate": "Credito non scaccia debito.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 192,
+    "say": "Dèbita e guai 'un finìscienu mai",
+    "text": "Debiti e guai non finiscono mai",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 193,
+    "say": "Duve cacci e nun minti, ce resta vacante.",
+    "text": "Dove sottrai e non rimpiazzi, ci rimane il vuoto",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 194,
+    "say": "E debita se pàganu e lle peccata se chjiàngienu",
+    "text": "I debiti si pagano e i peccati si piangono",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 195,
+    "say": "E debita su' cumu à morte",
+    "text": "I debiti sono come la morte (perché presto o tardi arriva la scadenza).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 196,
+    "say": "E debita su' cumu i piducchi: figlianu é notte",
+    "text": "I debiti sono come i pidocchi: nascono di notte",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 197,
+    "say": "È latru chine arrubba e chine tene lu saccu",
+    "text": "Ladro è chi ruba e chi tiene il sacco",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 198,
+    "say": "Ha pigliàtu 'a gatta 'ntra 'u saccu",
+    "text": "Essere presi con le mani nel sacco",
+    "translate": "Ha preso la gatta nel sacco.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 199,
+    "say": "I sordi fanu sordi e lli piducchi fanu piducchi.",
+    "text": "I soldi producono soldi e i pidocchi producono pidocchi",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 200,
+    "say": "I sordi fannu venire 'a vista alli cecati",
+    "text": "Chi possiede soldi cambia condizione oppure è tenuto in altra considerazione rispetto a quando non ne aveva",
+    "translate": "I soldi fanno ritornare la vista ai ciechi.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 201,
+    "say": "I sordi su' l àmici de' inbrugliùni.",
+    "text": "I soldi sono gli amici (alleati) degli imbroglioni.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 202,
+    "say": "L'àvaru ppe' lu pocu perde l'àssai",
+    "text": "L'avaro per (risparmiare) il poco, perde il molto",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 203,
+    "say": "L'avire fà sapire",
+    "text": "Possedere ricchezze rende possibile acquisire sapere",
+    "translate": "L'avere fa sapere. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 204,
+    "say": "Pagari a banca du'sapuni",
+    "text": "Pagarsi alla banca del sapone (cioè ad una banca inesistente).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 205,
+    "say": "Panza chjna canta, no' cammisa janca.",
+    "text": "Canta chi ha la pancia piena, non chi ha la camicia bianca, l'indumento indossato dai poveri",
+    "translate": "Pancia piena canta, non camicia bianca",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 206,
+    "say": "Quandu 'u poviru duna o riccu puru 'u riavulu si 'ndi riri.",
+    "text": "Quando il povero dà al ricco, anche il diavolo ne ride.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 207,
+    "say": "Riccu ppe' 'n' ura e pezzente ppe'sempre.",
+    "text": "Ricco per un'ora e pezzente per sempre",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 208,
+    "say": "Robba i guvernu: cui non sa futti vai o' 'nfernu",
+    "text": "Chi non frega la roba che appartiene al governo meriterà l'inferno.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 209,
+    "say": "Sciacqua Rosa e vive Agnese",
+    "text": "Si usa per indicare chi spende da prodigo sperperando le ricchezze altrui",
+    "translate": "Mentre Rosa sciacqua, Agnese beve.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 210,
+    "say": "U primu amure lassa 'na chìaga allu core",
+    "text": "Il primo amore lascia una piaga (spina) nel cuore.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 211,
+    "say": "U Signure manda pane a chine ud' ha dìanti.",
+    "text": "Il Signore manda pane a chi non ha denti. (Cioè a chi non può apprezzare alcune cose",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 212,
+    "say": "Un c'è atàru senza cruci e matrimmùanu senza vuci",
+    "text": " Non c'è altare senza croci e matrimonio senza voci (chiacchiere)",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 213,
+    "say": "Un c'è vìacchju senza duluri, un c'è giuvane senza amuri, 'un c'è maju senza juri",
+    "text": "Non c'è vecchio senza dolori, non c'è giovane senza amori, non c'è maggio senza fiori.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 214,
+    "say": "Un se pìglianu, si ún s'assimiglianu.",
+    "text": "Vengono ribadite le affinità elettive",
+    "translate": "Non si sposano, se non si assomigliano ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 215,
+    "say": "Lavùru fattu: dinàri aspetta.",
+    "text": "Chi lavora deve essere pagato",
+    "translate": "Lavoro fatto: soldi aspetta. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 216,
+    "say": "Le mancanu diciannove sordi ppe' na lira.",
+    "text": "Detto di chi gli manca sempre qualcosa per ottenere un risultato oppure di chi non ha neanche una lira",
+    "translate": "Gli mancano diciannove soldi per (fare) una lira. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 217,
+    "say": "Lavùru fattu: dinàri aspetta.",
+    "text": "Chi lavora deve essere pagato",
+    "translate": "Lavoro fatto: soldi aspetta. ",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 218,
+    "say": "Ci restaru sulu l'occhi ppe' chjiangere.",
+    "text": "Quando non si ha più nulla",
+    "translate": "Gli restano solo gli occhi per piangere",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 219,
+    "say": "Mbrìschiti ccu' chiddi meglhiu 'i tia e facci 'i spisi",
+    "text": "Frequenta quelli migliori di te e fatti carico delle loro spese (perché ci guadagnerai sicuramente).",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 220,
+    "say": "Mbitare a pasta e carne.",
+    "text": "Mettere a proprio agio",
+    "translate": "Invitare a pasta e carne.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 221,
+    "say": "Chine ha cchiù Santi, va 'mparadisu.",
+    "text": "Chi ha più santi (a proteggerlo) va in paradiso (perché ottiene quanto desiderato)",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 222,
+    "say": "Chine ha crape, ha corna.",
+    "text": "",
+    "translate": "Chi ha capre, ha corna.",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 223,
+    "say": "Chine ha lìndini fa piducchi.",
+    "text": "Chi ha lendini fa pidocchi.",
+    "translate": "",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 224,
+    "say": "Chine mina prima, mina ridiandu; chine mina doppu, mina chjiangiandu.",
+    "text": "",
+    "translate": "Chi colpisce per primo colpisce ridendo, chi colpisce dopo lo fa piangendo (per il dolore del colpo subìto).",
+    "origin": "Cosenza"
+  },
+  {
+    "id": 225,
+    "say": "Chine parra d'arrìati, d'arrìati è tenuto.",
+    "text": "Chi parla di un assente non merita alcuna stima",
+    "translate": "Chi parla alle spalle, alle spalle è tenuto.",
+    "origin": "Cosenza"
+  }
+]
