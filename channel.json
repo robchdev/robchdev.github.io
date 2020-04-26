@@ -220,7 +220,7 @@
 	"id": 31,
 	"title": "Paramount Channel",
 	"year": "1984",
-	"link": "http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8",
+	"link": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -241,7 +241,7 @@
 	"id": 34,
 	"title": "TV 2000",
 	"year": "1984",
-	"link": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
+	"link": "https://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -255,7 +255,7 @@
 	"id": 36,
 	"title": "QVC",
 	"year": "1984",
-	"link": "http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8",
+	"link": "https://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -276,7 +276,7 @@
 	"id": 39,
 	"title": "TV LUNA",
 	"year": "1984",
-	"link": "http://live.sloode.com:1935/teleluna/live/playlist.m3u8",
+	"link": "https://live.sloode.com:1935/teleluna/live/playlist.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -346,7 +346,7 @@
 	"id": 51,
 	"title": "RADIO ITALIA TV",
 	"year": "1984",
-	"link": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on",
+	"link": "https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -416,7 +416,7 @@
 	"id": 61,
 	"title": "TVR Sicilia",
 	"year": "1984",
-	"link": "http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8",
+	"link": "https://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -444,7 +444,7 @@
 	"id": 65,
 	"title": "EURONEWS",
 	"year": "1984",
-	"link": "http://stream-11.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa_nSAH30JyLs6w1CzqYsIA4)/dm/3/x2j7h84/s/live-1.m3u8",
+	"link": "https://stream-11.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa_nSAH30JyLs6w1CzqYsIA4)/dm/3/x2j7h84/s/live-1.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -472,42 +472,42 @@
 	"id": 69,
 	"title": "M20",
 	"year": "1984",
-	"link": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8",
+	"link": "https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 70,
 	"title": "IBIZA TV",
 	"year": "1984",
-	"link": "http://wma10.fluidstream.net/RadioIbizaTV/livestream/chunklist_w1622912751.m3u8",
+	"link": "https://wma10.fluidstream.net/RadioIbizaTV/livestream/chunklist_w1622912751.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 71,
 	"title": "RADIO BRUNO",
 	"year": "1984",
-	"link": "http://flash8.streaming.xdevel.com/radiobrunotv/radiobrunotv/chunklist_w1317118525.m3u8",
+	"link": "https://flash8.streaming.xdevel.com/radiobrunotv/radiobrunotv/chunklist_w1317118525.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 72,
 	"title": "VIDEOLINA",
 	"year": "1984",
-	"link": "http://livestreaming.videolina.it/live/Videolina/chunklist_w1548194757.m3u8",
+	"link": "https://livestreaming.videolina.it/live/Videolina/chunklist_w1548194757.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 73,
 	"title": "TMN",
 	"year": "1984",
-	"link": "http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/chunklist_w1167323736.m3u8",
+	"link": "https://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/chunklist_w1167323736.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 74,
 	"title": "CANALE 10",
 	"year": "1984",
-	"link": "http://37.187.142.147:1935/ch10live/high.stream/chunklist_w543110031.m3u8",
+	"link": "https://37.187.142.147:1935/ch10live/high.stream/chunklist_w543110031.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -535,14 +535,14 @@
 	"id": 78,
 	"title": "RTL 102.5",
 	"year": "1984",
-	"link": "http://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8",
+	"link": "https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 79,
 	"title": "KISS KISS TV",
 	"year": "1984",
-	"link": "http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist_w573387836.m3u8",
+	"link": "https://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist_w573387836.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -584,7 +584,7 @@
 	"id": 85,
 	"title": "CANALE 85",
 	"year": "1984",
-	"link": "http://wms.shared.streamshow.it/canale85/mp4:canale85/chunklist_w635445678.m3u8",
+	"link": "https://wms.shared.streamshow.it/canale85/mp4:canale85/chunklist_w635445678.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -612,14 +612,14 @@
 	"id": 89,
 	"title": "VIDEO MEDITERRANEO",
 	"year": "1984",
-	"link": "http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8",
+	"link": "https://streaming.ermeslink.com:88/hlsme/vmstream.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 90,
 	"title": "WEB TV BORGIA",
 	"year": "1984",
-	"link": "http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8",
+	"link": "https://www.twitch.tv/webtvborgia/",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }]
