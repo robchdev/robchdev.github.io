@@ -486,21 +486,21 @@
 	"id": 71,
 	"title": "RADIO BRUNO",
 	"year": "1984",
-	"link": "https://flash8.streaming.xdevel.com/radiobrunotv/radiobrunotv/chunklist_w1317118525.m3u8",
+	"link": "http://flash8.streaming.xdevel.com/radiobrunotv/radiobrunotv/chunklist_w1317118525.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 72,
 	"title": "VIDEOLINA",
 	"year": "1984",
-	"link": "https://livestreaming.videolina.it/live/Videolina/chunklist_w1548194757.m3u8",
+	"link": "http://livestreaming.videolina.it/live/Videolina/chunklist_w1548194757.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 73,
 	"title": "TMN",
 	"year": "1984",
-	"link": "https://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/chunklist_w1167323736.m3u8",
+	"link": "http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/chunklist_w1167323736.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -584,7 +584,7 @@
 	"id": 85,
 	"title": "CANALE 85",
 	"year": "1984",
-	"link": "https://wms.shared.streamshow.it/canale85/mp4:canale85/chunklist_w635445678.m3u8",
+	"link": "http://wms.shared.streamshow.it/canale85/mp4:canale85/chunklist_w635445678.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -612,7 +612,7 @@
 	"id": 89,
 	"title": "VIDEO MEDITERRANEO",
 	"year": "1984",
-	"link": "https://streaming.ermeslink.com:88/hlsme/vmstream.m3u8",
+	"link": "http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
