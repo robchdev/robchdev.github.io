@@ -322,6 +322,13 @@
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
+	"id": 47,
+	"title": "Canale 21",
+	"year": "1984",
+	"link": "http://live.sloode.com:1935/canale21/live/playlist.m3u8",
+	"created_at": "2019-10-06T15:26:59.572Z",
+	"updated_at": "2019-10-06T18:08:47.637Z"
+}, {
 	"id": 49,
 	"title": "Nove HD",
 	"year": "1984",
