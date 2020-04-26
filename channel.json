@@ -182,13 +182,6 @@
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
-	"id": 26,
-	"title": "Italia 2",
-	"year": "1984",
-	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
-	"updated_at": "2019-10-06T18:08:47.637Z"
-}, {
 	"id": 27,
 	"title": "Top Crime",
 	"year": "1984",
@@ -204,9 +197,9 @@
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 29,
-	"title": "Italia 2",
+	"title": "Padre Pio TV",
 	"year": "1984",
-	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8",
+	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -241,7 +234,7 @@
 	"id": 34,
 	"title": "TV 2000",
 	"year": "1984",
-	"link": "https://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
+	"link": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -416,7 +409,7 @@
 	"id": 61,
 	"title": "TVR Sicilia",
 	"year": "1984",
-	"link": "https://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8",
+	"link": "http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -458,7 +451,7 @@
 	"id": 67,
 	"title": "ARTE NETWORK ORLER",
 	"year": "1984",
-	"link": "https://w1.mediastreaming.it/tuttositiweb/livestream/playlist.m3u8",
+	"link": "http://w1.mediastreaming.it/tuttositiweb/livestream/playlist.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -507,7 +500,7 @@
 	"id": 74,
 	"title": "CANALE 10",
 	"year": "1984",
-	"link": "https://37.187.142.147:1935/ch10live/high.stream/chunklist_w543110031.m3u8",
+	"link": "http://37.187.142.147:1935/ch10live/high.stream/chunklist_w543110031.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
