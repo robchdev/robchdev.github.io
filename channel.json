@@ -1,19 +1,16 @@
 [{
-	"id": 1,
 	"title": "Rai 1 HD",
 	"year": "2019",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803",
 	"created_at": "2019-10-06T17:55:21.374Z",
 	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
-	"id": 2,
 	"title": "Rai 2 HD",
 	"year": "1994",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116",
 	"created_at": "2019-10-06T15:26:36.675Z",
 	"updated_at": "2019-10-06T18:05:31.649Z"
 }, {
-	"id": 3,
 	"title": "Rai 3 HD",
 	"year": "1972",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117",
