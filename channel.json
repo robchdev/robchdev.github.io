@@ -24,48 +24,48 @@
 	"title": "Rete 4",
 	"year": "2008",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8",
-	"created_at": "2019-10-06T18:06:12.933Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rete4.png",
 	"updated_at": "2019-10-06T18:06:12.933Z"
 }, {
 	"id": 5,
 	"title": "Canale 5",
 	"year": "1999",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8",
-	"created_at": "2019-10-06T18:06:33.096Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Canale5.png",
 	"updated_at": "2019-10-06T18:06:33.096Z"
 }, {
 	"id": 6,
 	"title": "Italia 1",
 	"year": "2010",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8",
-	"created_at": "2019-10-06T18:06:52.034Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Italia1.png",
 	"updated_at": "2019-10-06T18:06:52.034Z"
 }, {
 	"id": 7,
 	"title": "Rai 4 HD",
 	"year": "1999",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966",
-	"created_at": "2019-10-06T15:26:48.042Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai4.png",
 	"updated_at": "2019-10-06T18:08:00.902Z"
 }, {
 	"id": 10,
 	"title": "Rai 5 HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai5.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 11,
 	"title": "Rai News HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiNews24.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 12,
 	"title": "Rai Sport + HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiSport1.png",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
@@ -73,35 +73,35 @@
 	"title": "Rai Movie HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72381",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiMovie.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 14,
 	"title": "Rai Premium HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72383",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiPremium.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 15,
 	"title": "Rai YOYO HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72384",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiYoyo.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 16,
 	"title": "Rai GULP HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4119",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiGulp.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 17,
 	"title": "Rai STORIA HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiStoria.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 18,
@@ -115,14 +115,14 @@
 	"title": "Rai SCUOLA HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiScuola.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 20,
 	"title": "Mediaset Extra",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/MediasetExtra.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 21,
@@ -144,7 +144,7 @@
 	"title": "Iris",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Iris.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 24,
@@ -158,21 +158,21 @@
 	"title": "La 5",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/La5.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 26,
 	"title": "Italia 2",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Italia2.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 27,
 	"title": "Top Crime",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/TopCrime.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 28,
@@ -186,7 +186,7 @@
 	"title": "Padre Pio TV",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Pio.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 30,
@@ -200,7 +200,7 @@
 	"title": "Paramount Channel",
 	"year": "1984",
 	"link": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Paramount.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 32,
@@ -214,14 +214,14 @@
 	"title": "SKY TG24",
 	"year": "1984",
 	"link": "https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/SkyTg24.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 34,
 	"title": "TV 2000",
 	"year": "1984",
 	"link": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Tv2000.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 35,
@@ -284,7 +284,7 @@
 	"title": "Cielo",
 	"year": "1984",
 	"link": "https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8?hdnea=st=1572279606~exp=1608028200~acl=/*~hmac=18c005bed78d7962401e55b92d29ee4f05023f9144388266daf5dfcf3b22b47a&Origin=www.cielotv.it",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Cielo.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 44,
