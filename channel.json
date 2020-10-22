@@ -185,7 +185,7 @@
 	"id": 29,
 	"title": "Padre Pio TV",
 	"year": "1984",
-	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8",
+	"link": "https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1431717663_b227000_slita.m3u8",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Pio.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
