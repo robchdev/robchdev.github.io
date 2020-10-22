@@ -129,7 +129,7 @@
 	"title": "M4C",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(w1)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/M4c.png"
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }
 , {
@@ -137,7 +137,7 @@
 	"title": "FOCUS",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Focus.png"
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 23,
@@ -151,7 +151,7 @@
 	"title": "20",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/20.png"
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 25,
@@ -179,7 +179,7 @@
 	"title": "BOING",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Boing.png"
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 29,
@@ -193,7 +193,7 @@
 	"title": "Cartoonito",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Cartoonito.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 31,
@@ -228,56 +228,56 @@
 	"title": "Motor Trend",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1559845194~exp=1559931594~acl=/*~hmac=877e074ac091df4a9d3406b63474da090678d4eef65c21489d443b94d4de7087&mux_audio=true",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Motortrend.png"
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 36,
 	"title": "QVC",
 	"year": "1984",
 	"link": "https://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Qvc.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 37,
 	"title": "TELEVOMERO",
 	"year": "1984",
 	"link": "https://stream2.xdevel.com/video0s100-23/stream/playlist_dvr.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Televomero.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 38,
 	"title": "TELECOLORE",
 	"year": "1984",
 	"link": "https://5bc42255bee71.streamlock.net/telecolore/telecolore/playlist.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Telecolore.png"
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 39,
 	"title": "TV LUNA",
 	"year": "1984",
 	"link": "https://live.sloode.com:1935/teleluna/live/playlist.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Tvluna.png"
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 40,
 	"title": "LIRA TV",
 	"year": "1984",
 	"link": "https://5bc42255bee71.streamlock.net/liratv/diretta01/playlist.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Liratv.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 41,
 	"title": "Giallo HD",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?hdnts=st=1564227924~exp=1564314324~acl=/*~hmac=98bf7f8b6e1d65254efde4c3350f77d0e01d778d5e86abffd3ff244df230faad&mux_audio=true",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Giallo.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 42,
 	"title": "Real Time HD",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1564228002~exp=1564314402~acl=/*~hmac=6c0b77c0af71417fd823ef483a0d15c72e267308b83fdcb0e1b2228dba9dd703&mux_audio=true",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Realtime.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 43,
@@ -291,77 +291,77 @@
 	"title": "Spike",
 	"year": "1984",
 	"link": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Spike.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 45,
 	"title": "Dmax",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Dmax.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 46,
 	"title": "Bella TV",
 	"year": "1984",
 	"link": "https://server.bellaradio.it:5443/LiveApp/streams/729591642167928092854030.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Bellatv.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 47,
 	"title": "Canale 21",
 	"year": "1984",
 	"link": "http://live.sloode.com:1935/canale21/live/playlist.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Canale21.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 49,
 	"title": "Nove HD",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1585746893~exp=1585833293~acl=/i/*~hmac=7aa28aab591fe6ddf8d0480b4f202d3536f6f5b26dedf9d944c35b6320950ca4&mux_audio=true",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Nove.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 50,
-	"title": "7 GOLD",
+	"title": "Tele Rent",
 	"year": "1984",
 	"link": "https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Telerent.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 51,
 	"title": "RADIO ITALIA TV",
 	"year": "1984",
 	"link": "https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Radioitalia.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 52,
 	"title": "DEEJAY TV",
 	"year": "1984",
 	"link": "https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Deejay.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 53,
 	"title": "DONNA TV",
 	"year": "1984",
 	"link": "https://59d7d6f47d7fc.streamlock.net/donnatv/donnatv/chunklist_w1220531604.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Donnatv.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 54,
 	"title": "Food Network",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1586086849~exp=1586173249~acl=/i/*~hmac=49ca8a624a617228910e6a0b491ab25e78ea7ab08c404c6800fc366e15a03146&mux_audio=true",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Foodnetwork.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 55,
-	"title": "GARDEN TV",
+	"title": "HGTV Home&Garden",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8?hdnts=st=1586087022~exp=1586173422~acl=/i/*~hmac=de96ec44e08f66f8bc2d77475db559a230eaa6595a4d52ed3bf200ffd4ec3de4&mux_audio=true",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Hgtv.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 56,
@@ -375,7 +375,7 @@
 	"title": "CINE34 Mediaset",
 	"year": "1984",
 	"link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Cine34.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 58,
@@ -606,14 +606,14 @@
 	"title": "K2",
 	"year": "1984",
 	"link": "https://www.mytivu.it/Application/Channels/K2.php",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/K2.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 91,
 	"title": "FRISBEE",
 	"year": "1984",
 	"link": "https://www.mytivu.it/Application/Channels/Frisbee.php",
-	"created_at": "2019-10-06T15:26:59.572Z",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Frisbee.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 92,
