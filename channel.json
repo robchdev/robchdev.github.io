@@ -228,7 +228,7 @@
 	"title": "Motor Trend",
 	"year": "1984",
 	"link": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1559845194~exp=1559931594~acl=/*~hmac=877e074ac091df4a9d3406b63474da090678d4eef65c21489d443b94d4de7087&mux_audio=true",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Motortrend.png"
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Motortrend.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 36,
@@ -249,14 +249,14 @@
 	"title": "TELECOLORE",
 	"year": "1984",
 	"link": "https://5bc42255bee71.streamlock.net/telecolore/telecolore/playlist.m3u8",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Telecolore.png"
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Telecolore.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 39,
 	"title": "TV LUNA",
 	"year": "1984",
 	"link": "https://live.sloode.com:1935/teleluna/live/playlist.m3u8",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Tvluna.png"
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Tvluna.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 40,
