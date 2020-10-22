@@ -129,7 +129,7 @@
 	"title": "M4C",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(w1)/index.m3u8",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/M4c.png"
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/M4c.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }
 , {
@@ -137,7 +137,7 @@
 	"title": "FOCUS",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Focus.png"
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Focus.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 23,
@@ -151,7 +151,7 @@
 	"title": "20",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/20.png"
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/20.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 25,
@@ -179,7 +179,7 @@
 	"title": "BOING",
 	"year": "1984",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Boing.png"
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Boing.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
 	"id": 29,
