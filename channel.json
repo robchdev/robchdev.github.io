@@ -171,10 +171,10 @@
 	"id": 24,
 	"title": "20",
 	"year": "1984",
-	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+	"link": "https://tube.xy-space.de/static/streaming-playlists/hls/a94e5fd5-021d-4ba4-ae86-6e73e47a747b/0.m3u8",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/20.png",
 	"updated_at": "2019-10-06T18:08:47.637Z",
-	"check": "0"
+	"check": "1"
 }, {
 	"id": 25,
 	"title": "La 5",
