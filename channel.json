@@ -163,7 +163,7 @@
 	"title": "LAC",
 	"year": "1984",
 	"link": "https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8",
-	"image": "",
+	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/LAC.png",
 	"updated_at": "2019-10-06T18:08:47.637Z",
 	"check": "1"
 }
