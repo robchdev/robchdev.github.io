@@ -323,10 +323,10 @@
 	"id": 43,
 	"title": "Cielo",
 	"year": "1984",
-	"link": "https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8?hdnea=st=1572279606~exp=1608028200~acl=/*~hmac=18c005bed78d7962401e55b92d29ee4f05023f9144388266daf5dfcf3b22b47a&Origin=www.cielotv.it",
+	"link": "https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8?hdntl=exp=1635414936~acl=/*~data=hdntl~hmac=6a5b3d436bf2ae0feed58237f6887d60e7873d7f2fc16e2421cfbe9da0959af2",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Cielo.png",
 	"updated_at": "2019-10-06T18:08:47.637Z",
-	"check": "0"
+	"check": "1"
 }, {
 	"id": 44,
 	"title": "Spike",
@@ -681,12 +681,12 @@
 	"check": "0"
 }, {
 	"id": 89,
-	"title": "VIDEO MEDITERRANEO",
+	"title": "VH1",
 	"year": "1984",
-	"link": "http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8",
+	"link": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
 	"created_at": "2019-10-06T15:26:59.572Z",
 	"updated_at": "2019-10-06T18:08:47.637Z",
-	"check": "0"
+	"check": "1"
 }, {
 	"id": 90,
 	"title": "K2",
