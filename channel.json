@@ -12,84 +12,96 @@
 	"year": "1994",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai2.png",
-	"updated_at": "2020-11-06T18:05:31.649Z"
+	"updated_at": "2020-11-06T18:05:31.649Z",
+	"check": "1"
 }, {
 	"id": 3,
 	"title": "Rai 3 HD",
 	"year": "1972",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai3.png",
-	"updated_at": "2019-10-06T18:05:50.242Z"
+	"updated_at": "2019-10-06T18:05:50.242Z",
+	"check": "1"
 }, {
 	"id": 4,
 	"title": "Rete 4",
 	"year": "2008",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rete4.png",
-	"updated_at": "2019-10-06T18:06:12.933Z"
+	"updated_at": "2019-10-06T18:06:12.933Z",
+	"check": "1"
 }, {
 	"id": 5,
 	"title": "Canale 5",
 	"year": "1999",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Canale5.png",
-	"updated_at": "2019-10-06T18:06:33.096Z"
+	"updated_at": "2019-10-06T18:06:33.096Z",
+	"check": "1"
 }, {
 	"id": 6,
 	"title": "Italia 1",
 	"year": "2010",
 	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Italia1.png",
-	"updated_at": "2019-10-06T18:06:52.034Z"
+	"updated_at": "2019-10-06T18:06:52.034Z",
+	"check": "1"
 }, {
 	"id": 7,
 	"title": "Rai 4 HD",
 	"year": "1999",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai4.png",
-	"updated_at": "2019-10-06T18:08:00.902Z"
+	"updated_at": "2019-10-06T18:08:00.902Z",
+	"check": "1"
 }, {
 	"id": 10,
 	"title": "Rai 5 HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai5.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "1"
 }, {
 	"id": 11,
 	"title": "Rai News HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiNews24.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "1"
 }, {
 	"id": 12,
 	"title": "Rai Sport + HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiSport1.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "0"
 }, {
 	"id": 13,
 	"title": "Rai Movie HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72381",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiMovie.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "0"
 }, {
 	"id": 14,
 	"title": "Rai Premium HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72383",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiPremium.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "0"
 }, {
 	"id": 15,
 	"title": "Rai YOYO HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72384",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiYoyo.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "0"
 }, {
 	"id": 16,
 	"title": "Rai GULP HD",
@@ -108,7 +120,7 @@
 	"id": 18,
 	"title": "Rai 5 HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai5.png",
 	"updated_at": "2019-10-06T18:08:47.637Z"
 }, {
