@@ -74,62 +74,66 @@
 	"id": 12,
 	"title": "Rai Sport + HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiSport1.png",
 	"updated_at": "2019-10-06T18:08:47.637Z",
-	"check": "0"
+	"check": "1"
 }, {
 	"id": 13,
 	"title": "Rai Movie HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72381",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiMovie.png",
 	"updated_at": "2019-10-06T18:08:47.637Z",
-	"check": "0"
+	"check": "1"
 }, {
 	"id": 14,
 	"title": "Rai Premium HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72383",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiPremium.png",
 	"updated_at": "2019-10-06T18:08:47.637Z",
-	"check": "0"
+	"check": "1"
 }, {
 	"id": 15,
 	"title": "Rai YOYO HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72384",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiYoyo.png",
 	"updated_at": "2019-10-06T18:08:47.637Z",
-	"check": "0"
+	"check": "1"
 }, {
 	"id": 16,
 	"title": "Rai GULP HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4119",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiGulp.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "1"
 }, {
 	"id": 17,
 	"title": "Rai STORIA HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiStoria.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "1"
 }, {
 	"id": 18,
 	"title": "Rai 5 HD",
 	"year": "1984",
 	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Rai5.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "1"
 }, {
 	"id": 19,
 	"title": "Rai SCUOLA HD",
 	"year": "1984",
-	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268",
+	"link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/RaiScuola.png",
-	"updated_at": "2019-10-06T18:08:47.637Z"
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "1"
 }, {
 	"id": 20,
 	"title": "Mediaset Extra",
