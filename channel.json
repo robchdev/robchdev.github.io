@@ -144,10 +144,10 @@
 	"check": "1"
 }, {
 	"id": 21,
-	"title": "M4C",
+	"title": "LAC",
 	"year": "1984",
-	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(w1)/index.m3u8",
-	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/M4c.png",
+	"link": "https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8",
+	"image": "",
 	"updated_at": "2019-10-06T18:08:47.637Z",
 	"check": "0"
 }
@@ -713,6 +713,14 @@
 	"check": "1"
 }, {
 	"id": 93,
+	"title": "CALABRIA UNO",
+	"year": "1984",
+	"link": "https://calabriauno.interact.it/live/diretta/playlist.m3u8",
+	"created_at": "2019-10-06T15:26:59.572Z",
+	"updated_at": "2019-10-06T18:08:47.637Z",
+	"check": "1"
+}, {
+	"id": 94,
 	"title": "GRANDE FRATELLO",
 	"year": "1984",
 	"link": "https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b7)/stream04/streamPlaylist.m3u8",
