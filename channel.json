@@ -34,7 +34,7 @@
 	"id": 5,
 	"title": "Canale 5",
 	"year": "1999",
-	"link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8",
+	"link": "https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8",
 	"image": "https://raw.githubusercontent.com/robchdev/TVSwiftUI/master/image/Canale5.png",
 	"updated_at": "2019-10-06T18:06:33.096Z",
 	"check": "1"
