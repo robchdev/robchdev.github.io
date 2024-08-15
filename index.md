@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Pages
 
 # Menu
 
