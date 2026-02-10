@@ -37,14 +37,6 @@ title: Apps
     <span class="app-card__cta" aria-hidden="true">Read policy</span>
   </a>
 
-  <a class="app-card" role="listitem" href="{{ '/scanOCR/' | relative_url }}">
-    <div class="app-card__meta">
-      <span class="app-card__label">Privacy policy</span>
-    </div>
-    <h2 class="app-card__title">ScanOCR</h2>
-    <p class="app-card__desc">OCR utility: transparency on analytics and diagnostics.</p>
-    <span class="app-card__cta" aria-hidden="true">Read policy</span>
-  </a>
 </div>
 
 <div class="apps-footer">

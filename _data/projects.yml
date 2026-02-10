@@ -15,9 +15,3 @@
   blurb: "Sticker pack app by Roberto Chiarella."
   href: "/hallowenSticker/"
   tags: ["Privacy Policy"]
-
-- title: "ScanOCR"
-  kind: "Mobile app"
-  blurb: "OCR utility app by Roberto Chiarella."
-  href: "/scanOCR/"
-  tags: ["Privacy Policy"]
