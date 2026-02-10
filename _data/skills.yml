@@ -1,0 +1,21 @@
+- group: "Mobile"
+  items:
+    - "iOS"
+    - "Android"
+
+- group: "Languages"
+  items:
+    - "Swift"
+    - "Kotlin"
+    - "Dart"
+
+- group: "Backend & Data"
+  items:
+    - "Firebase"
+    - "REST APIs"
+
+- group: "Product"
+  items:
+    - "UX/UI"
+    - "Privacy-first"
+    - "App Store / Play Store"

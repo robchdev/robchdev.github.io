@@ -1,0 +1,23 @@
+- title: "Dittu"
+  kind: "Mobile app"
+  blurb: "A lightweight app by Roberto Chiarella."
+  href: "/dittu/"
+  tags: ["Privacy Policy"]
+
+- title: "Appecedario"
+  kind: "Mobile app"
+  blurb: "A simple companion app by Roberto Chiarella."
+  href: "/appecedario/"
+  tags: ["Privacy Policy"]
+
+- title: "Halloween Stickers"
+  kind: "Mobile app"
+  blurb: "Sticker pack app by Roberto Chiarella."
+  href: "/hallowenSticker/"
+  tags: ["Privacy Policy"]
+
+- title: "ScanOCR"
+  kind: "Mobile app"
+  blurb: "OCR utility app by Roberto Chiarella."
+  href: "/scanOCR/"
+  tags: ["Privacy Policy"]

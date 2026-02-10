@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /about/
 ---
 
-Brief text about the project ...
+This site hosts public information and policies for apps published by Roberto Chiarella.
