@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Privacy Policy unica per sito e app Easter Eggs.">
+  <title>Privacy Policy | Sito e App Easter Eggs</title>
+  <style>
+    :root {
+      --bg-1: #fff7ef;
+      --bg-2: #eef7ff;
+      --card: #ffffff;
+      --text: #1f2633;
+      --muted: #586173;
+      --primary: #0f7bff;
+      --primary-soft: #e9f2ff;
+      --line: #e4e8f1;
+      --ok: #13805b;
+      --radius: 18px;
+      --shadow: 0 18px 45px rgba(16, 28, 52, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      color: var(--text);
+      font-family: "Manrope", "Plus Jakarta Sans", "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+      line-height: 1.65;
+      background:
+        radial-gradient(1100px 520px at -12% -10%, #ffe8cc 0%, transparent 58%),
+        radial-gradient(900px 460px at 112% -5%, #dcecff 0%, transparent 58%),
+        linear-gradient(180deg, var(--bg-1), var(--bg-2));
+      min-height: 100%;
+    }
+
+    .wrap {
+      width: min(980px, 100% - 28px);
+      margin: 26px auto 36px;
+    }
+
+    .hero,
+    .card {
+      background: color-mix(in oklab, var(--card) 94%, #ffffff 6%);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(4px);
+    }
+
+    .hero {
+      padding: 28px;
+      margin-bottom: 16px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto -120px -120px auto;
+      width: 240px;
+      height: 240px;
+      border-radius: 50%;
+      background: radial-gradient(circle, #d8e8ff 0%, rgba(216, 232, 255, 0) 72%);
+      pointer-events: none;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #0d4d9a;
+      background: var(--primary-soft);
+      border: 1px solid #cfe1ff;
+      border-radius: 999px;
+      padding: 6px 10px;
+      letter-spacing: 0.02em;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(1.6rem, 1.1rem + 2vw, 2.25rem);
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+    }
+
+    .lead {
+      margin: 0;
+      max-width: 72ch;
+      color: var(--muted);
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .meta-item {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px 12px;
+      background: #fbfcff;
+      font-size: 0.92rem;
+    }
+
+    .meta-item strong {
+      display: block;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #6a7488;
+      margin-bottom: 2px;
+    }
+
+    .card {
+      padding: 22px;
+    }
+
+    h2 {
+      margin: 0 0 8px;
+      font-size: 1.08rem;
+      letter-spacing: 0.01em;
+    }
+
+    section + section {
+      margin-top: 18px;
+      padding-top: 18px;
+      border-top: 1px dashed #d8deea;
+    }
+
+    p,
+    li {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    ul {
+      margin: 8px 0 0;
+      padding-left: 1.1rem;
+    }
+
+    li + li {
+      margin-top: 6px;
+    }
+
+    a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .note {
+      margin-top: 16px;
+      border: 1px solid #cfe9dd;
+      background: #f1fbf6;
+      color: #0f6b4d;
+      border-radius: 12px;
+      padding: 11px 12px;
+      font-size: 0.92rem;
+    }
+
+    .footer {
+      margin-top: 16px;
+      text-align: center;
+      color: #6c7588;
+      font-size: 0.88rem;
+    }
+
+    @media (max-width: 640px) {
+      .wrap {
+        width: min(980px, 100% - 18px);
+      }
+
+      .hero,
+      .card {
+        border-radius: 14px;
+      }
+
+      .hero {
+        padding: 18px;
+      }
+
+      .card {
+        padding: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <div class="chips">
+        <span class="chip">Sito</span>
+        <span class="chip">App mobile</span>
+        <span class="chip">GDPR</span>
+      </div>
+      <h1>Privacy Policy Unificata</h1>
+      <p class="lead">
+        Questa informativa si applica a <strong>tutti i servizi Easter Eggs</strong>, inclusi il sito
+        <strong>robchdev.github.io</strong> e l'app mobile.
+      </p>
+      <div class="meta">
+        <div class="meta-item">
+          <strong>Ultimo aggiornamento</strong>
+          25 marzo 2026
+        </div>
+        <div class="meta-item">
+          <strong>Ambito</strong>
+          Sito web e applicazione
+        </div>
+        <div class="meta-item">
+          <strong>Titolare</strong>
+          Roberto Chiarella
+        </div>
+      </div>
+    </header>
+
+    <article class="card">
+      <section>
+        <h2>1. Titolare del trattamento</h2>
+        <p>
+          Il titolare del trattamento e responsabile del servizio e' Roberto Chiarella.
+          Per richieste relative alla privacy puoi contattare il titolare tramite
+          <a href="https://github.com/robchdev" target="_blank" rel="noopener noreferrer">github.com/robchdev</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>2. Quali dati possono essere trattati</h2>
+        <ul>
+          <li><strong>Dati tecnici essenziali</strong> (es. informazioni del dispositivo, crash e log tecnici) per sicurezza e stabilita'.</li>
+          <li><strong>Dati pubblicitari</strong> tramite Google AdMob nell'app mobile, secondo le impostazioni del dispositivo e i consensi richiesti.</li>
+          <li><strong>Dati locali dell'utente</strong> (es. impostazioni o contenuti creati) salvati sul dispositivo.</li>
+          <li><strong>Dati di navigazione del sito</strong> (es. log tecnici del browser/server necessari alla fruizione della pagina).</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>3. Finalita' del trattamento</h2>
+        <ul>
+          <li>Fornire il servizio su sito e app.</li>
+          <li>Mantenere prestazioni, sicurezza e affidabilita'.</li>
+          <li>Mostrare annunci pubblicitari nell'app per sostenere il progetto.</li>
+          <li>Gestire richieste utente e supporto.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>4. Base giuridica</h2>
+        <p>
+          Il trattamento avviene in base all'esecuzione del servizio, all'interesse legittimo del titolare
+          e, quando necessario, al consenso dell'utente (in particolare per trattamenti pubblicitari personalizzati).
+        </p>
+      </section>
+
+      <section>
+        <h2>5. Servizi di terze parti</h2>
+        <p>Per la componente pubblicitaria dell'app viene usato:</p>
+        <ul>
+          <li>
+            <strong>Google AdMob</strong> -
+            <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a>
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>6. Cookie e tecnologie simili</h2>
+        <p>
+          Il sito non utilizza cookie di profilazione proprietari. Eventuali cookie tecnici o tecnologie equivalenti
+          possono essere usati per il corretto funzionamento del servizio o da terze parti coinvolte nell'erogazione.
+        </p>
+      </section>
+
+      <section>
+        <h2>7. Conservazione dei dati</h2>
+        <ul>
+          <li>I dati locali restano sul tuo dispositivo finche' non li elimini o disinstalli l'app.</li>
+          <li>I dati gestiti da servizi terzi seguono i tempi di conservazione previsti dalle rispettive policy.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>8. Diritti dell'utente (GDPR)</h2>
+        <p>
+          Se applicabile, puoi esercitare i diritti di accesso, rettifica, cancellazione, limitazione,
+          opposizione e portabilita' dei dati, oltre al diritto di revocare il consenso ove prestato.
+        </p>
+      </section>
+
+      <section>
+        <h2>9. Minori</h2>
+        <p>
+          I servizi non sono destinati alla raccolta intenzionale di dati personali di minori.
+          In caso di segnalazioni, i dati saranno rimossi nei limiti tecnicamente possibili.
+        </p>
+      </section>
+
+      <section>
+        <h2>10. Aggiornamenti della policy</h2>
+        <p>
+          Questa informativa puo' essere aggiornata nel tempo. Le modifiche diventano efficaci dalla data
+          di pubblicazione in questa pagina.
+        </p>
+      </section>
+
+      <p class="note">
+        Nota: questa pagina e' pensata come policy unica per sito e app, cosi' da avere un solo riferimento pubblico.
+      </p>
+    </article>
+
+    <p class="footer">Privacy Policy - Easter Eggs</p>
+  </main>
+</body>
+</html>
