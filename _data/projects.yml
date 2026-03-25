@@ -1,17 +1,29 @@
+- title: "Easter Eggs Maker"
+  kind: "Mobile app"
+  blurb: "Create and decorate eggs with fun templates and effects."
+  href: "/eastereggsmaker/privacy-policy.html"
+  tags: ["Privacy Policy"]
+
 - title: "Dittu"
   kind: "Mobile app"
   blurb: "A lightweight app by Roberto Chiarella."
-  href: "/dittu/"
+  href: "/dittu/privacy-policy.html"
   tags: ["Privacy Policy"]
 
 - title: "Appecedario"
   kind: "Mobile app"
   blurb: "A simple companion app by Roberto Chiarella."
-  href: "/appecedario/"
+  href: "/appecedario/privacy-policy.html"
   tags: ["Privacy Policy"]
 
 - title: "Halloween Stickers"
   kind: "Mobile app"
   blurb: "Sticker pack app by Roberto Chiarella."
-  href: "/hallowenSticker/"
+  href: "/hallowensticker/privacy-policy.html"
+  tags: ["Privacy Policy"]
+
+- title: "Halloween Etiquette"
+  kind: "Mobile app"
+  blurb: "Etiquette tips app with a dedicated privacy page."
+  href: "/hallowen-etiquette/privacy-policy.html"
   tags: ["Privacy Policy"]
