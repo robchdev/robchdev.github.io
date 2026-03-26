@@ -7,7 +7,7 @@ title: Apps
   <p class="hero__kicker">Roberto Chiarella</p>
   <h1 class="hero__title">Privacy Center App</h1>
   <p class="hero__lead">Tutte le privacy policy delle mie app, in un unico punto.</p>
-  <p class="hero__lead"><strong>Aggiornata:</strong> 25 marzo 2026</p>
+  <p class="hero__lead"><strong>Aggiornata:</strong> 26 marzo 2026</p>
 </div>
 
 <div class="app-grid" role="list">
@@ -48,6 +48,9 @@ title: Apps
 </div>
 
 <div class="apps-footer">
+  <p>
+    Easter Eggs Android: <a href="{{ '/eastereggsmaker/android-install.html' | relative_url }}">pagina download APK</a>.
+  </p>
   <p>
     Altre informazioni: <a href="{{ '/portfolio/' | relative_url }}">Portfolio</a> e <a href="{{ '/about/' | relative_url }}">About</a>.
   </p>
