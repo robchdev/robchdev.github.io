@@ -45,6 +45,15 @@ title: Apps
     <p class="app-card__desc">Pagina privacy dedicata con struttura uniforme.</p>
     <span class="app-card__cta" aria-hidden="true">Apri policy</span>
   </a>
+
+
+  <a class="app-card" role="listitem" href="{{ '/guanix/privacy-policy.html' | relative_url }}">
+    <div class="app-card__meta"><span class="app-card__label">Privacy policy</span></div>
+    <h2 class="app-card__title">Guanix</h2>
+    <p class="app-card__desc">Assistente AI locale con policy dedicata.</p>
+    <span class="app-card__cta" aria-hidden="true">Apri policy</span>
+  </a>
+
 </div>
 
 <div class="apps-footer">
