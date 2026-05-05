@@ -3,28 +3,30 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Guanix Supporto</title>
+  <title>Guanix - Supporto e Privacy Policy</title>
   <style>
     :root { color-scheme: light; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; background:#f6f7fb; color:#111827; }
-    .wrap { max-width: 760px; margin: 0 auto; padding: 32px 20px; }
+    .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px; }
     .card { background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:20px; margin-bottom:16px; }
     h1 { margin:0 0 8px; font-size:30px; }
     h2 { margin:0 0 10px; font-size:20px; }
+    h3 { margin:16px 0 8px; font-size:16px; }
     p, li { line-height:1.55; }
     a { color:#0b5fff; text-decoration:none; }
     a:hover { text-decoration:underline; }
     .muted { color:#6b7280; font-size:14px; }
+    code { background:#f3f4f6; padding:2px 6px; border-radius:6px; }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>Supporto Guanix</h1>
+    <h1>Guanix - Supporto e Privacy Policy</h1>
     <p class="muted">Ultimo aggiornamento: 5 maggio 2026</p>
 
     <section class="card">
-      <h2>Contatti</h2>
-      <p>Per assistenza tecnica o problemi con l'app, contattaci qui:</p>
+      <h2>Supporto</h2>
+      <p>Per assistenza tecnica o richieste relative ai dati personali:</p>
       <ul>
         <li>Email supporto: <a href="mailto:roberto.chiarelladev@gmail.com">roberto.chiarelladev@gmail.com</a></li>
         <li>Tempo medio risposta: 24-72 ore lavorative</li>
@@ -32,20 +34,82 @@
     </section>
 
     <section class="card">
-      <h2>Domande frequenti</h2>
+      <h2>Privacy Policy (IT)</h2>
+
+      <h3>1) Dati trattati nell'app</h3>
       <ul>
-        <li>L'app funziona anche in locale con modelli sul dispositivo.</li>
-        <li>Per i provider remoti (Hugging Face/Ollama/LM Studio), l'app chiede consenso prima di inviare dati.</li>
-        <li>Puoi gestire token, endpoint e sorgente modello da Impostazioni.</li>
+        <li>Contenuti inseriti dall'utente (es. testo chat).</li>
+        <li>Allegati opzionali caricati dall'utente (immagini/file testuali) se inviati in chat.</li>
+        <li>Testo trascritto da input vocale (solo se l'utente usa il microfono).</li>
+      </ul>
+
+      <h3>2) Come vengono usati i dati</h3>
+      <p>I dati sono usati per fornire la funzionalita' richiesta dall'utente: generare una risposta AI nella chat.</p>
+
+      <h3>3) Condivisione / trasmissione a terzi</h3>
+      <p>
+        In modalita' AI remota, i contenuti possono essere trasmessi al provider selezionato dall'utente:
+      </p>
+      <ul>
+        <li>Hugging Face API</li>
+        <li>Server Ollama configurato dall'utente</li>
+        <li>Server LM Studio configurato dall'utente</li>
+      </ul>
+      <p>
+        Nota: Ollama/LM Studio possono essere server self-hosted di proprieta' dell'utente.
+        L'app invia dati solo all'endpoint configurato dall'utente.
+      </p>
+
+      <h3>4) Consenso esplicito prima dell'invio</h3>
+      <p>
+        Prima di inviare dati a provider AI esterni, l'app mostra una richiesta di consenso esplicito che indica:
+        quali dati vengono inviati, a chi vengono inviati e per quale finalita'.
+      </p>
+
+      <h3>5) Modalita' locale</h3>
+      <p>
+        In modalita' locale, i contenuti restano sul dispositivo e non vengono trasmessi a provider AI terzi.
+      </p>
+
+      <h3>6) Conservazione dati</h3>
+      <p>
+        Non conserviamo contenuti chat su nostri server remoti.
+        I dati di conversazione e impostazioni app sono salvati localmente sul dispositivo dell'utente.
+      </p>
+
+      <h3>7) Revoca del consenso</h3>
+      <p>
+        L'utente puo' revocare il consenso AI remota in qualsiasi momento dalle Impostazioni dell'app.
+      </p>
+
+      <h3>8) Protezione equivalente dei terzi</h3>
+      <p>
+        Eventuali terze parti destinatarie dei dati devono fornire protezione dei dati uguale o equivalente a quanto descritto in questa policy.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Privacy Policy (EN)</h2>
+      <p>
+        When remote AI mode is used, user-provided content may be transmitted to the selected external AI provider
+        (Hugging Face API, user-configured Ollama server, or user-configured LM Studio server) only after explicit in-app consent.
+      </p>
+      <ul>
+        <li>Data that may be sent: chat text, optional attachments (image/text files), optional voice transcription text.</li>
+        <li>Purpose: generate the AI response requested by the user.</li>
+        <li>Local mode: user content is not transmitted to third-party AI providers.</li>
+        <li>Retention: we do not store chat content on our remote servers; app data is stored locally on device.</li>
+        <li>Users can revoke remote AI consent at any time in app settings.</li>
       </ul>
     </section>
 
     <section class="card">
-      <h2>Privacy</h2>
-      <p>
-        Quando usi provider AI remoti, i contenuti inseriti in chat possono essere inviati al provider selezionato.
-        L'app mostra una richiesta di consenso esplicita prima del primo invio.
-      </p>
+      <h2>FAQ</h2>
+      <ul>
+        <li>L'app funziona anche in locale con modelli sul dispositivo.</li>
+        <li>Per i provider remoti, il consenso e' richiesto prima del primo invio.</li>
+        <li>Token, endpoint e provider sono gestibili in Impostazioni.</li>
+      </ul>
     </section>
   </div>
 </body>
