@@ -27,3 +27,9 @@
   blurb: "Etiquette tips app with a dedicated privacy page."
   href: "/hallowen-etiquette/privacy-policy.html"
   tags: ["Privacy Policy"]
+
+- title: "ninna"
+  kind: "Mobile app"
+  blurb: "Sleep and relax app with sounds, breathing and video scenes."
+  href: "/ninna/privacy-policy.html"
+  tags: ["Privacy Policy"]

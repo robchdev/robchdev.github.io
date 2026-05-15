@@ -54,6 +54,13 @@ title: Apps
     <span class="app-card__cta" aria-hidden="true">Apri policy</span>
   </a>
 
+  <a class="app-card" role="listitem" href="{{ '/ninna/privacy-policy.html' | relative_url }}">
+    <div class="app-card__meta"><span class="app-card__label">Privacy policy</span></div>
+    <h2 class="app-card__title">ninna</h2>
+    <p class="app-card__desc">Suoni, respiro e video relax per il sonno.</p>
+    <span class="app-card__cta" aria-hidden="true">Apri policy</span>
+  </a>
+
 </div>
 
 <div class="apps-footer">
