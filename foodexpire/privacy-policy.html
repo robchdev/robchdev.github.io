@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Privacy Policy per FoodExpire.">
+  <title>Privacy Policy | FoodExpire</title>
+  <style>
+    :root {
+      --bg-1: #f7f3ea;
+      --bg-2: #e8f2ee;
+      --card: #ffffff;
+      --text: #10233a;
+      --muted: #5d6d82;
+      --primary: #117b73;
+      --primary-soft: #e0f3ee;
+      --line: #dce6e2;
+      --radius: 18px;
+      --shadow: 0 18px 45px rgba(16, 35, 58, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      color: var(--text);
+      font-family: "Manrope", "Plus Jakarta Sans", "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+      line-height: 1.65;
+      background:
+        radial-gradient(1100px 520px at -12% -10%, #f6e8c9 0%, transparent 58%),
+        radial-gradient(900px 460px at 112% -5%, #d6e8e1 0%, transparent 58%),
+        linear-gradient(180deg, var(--bg-1), var(--bg-2));
+      min-height: 100%;
+    }
+
+    .wrap {
+      width: min(980px, 100% - 28px);
+      margin: 26px auto 36px;
+    }
+
+    .hero,
+    .card {
+      background: color-mix(in oklab, var(--card) 94%, #ffffff 6%);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(4px);
+    }
+
+    .hero {
+      padding: 28px;
+      margin-bottom: 16px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto -120px -120px auto;
+      width: 240px;
+      height: 240px;
+      border-radius: 50%;
+      background: radial-gradient(circle, #cae4dc 0%, rgba(202, 228, 220, 0) 72%);
+      pointer-events: none;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #0c5d57;
+      background: var(--primary-soft);
+      border: 1px solid #bfe2d8;
+      border-radius: 999px;
+      padding: 6px 10px;
+      letter-spacing: 0.02em;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(1.6rem, 1.1rem + 2vw, 2.25rem);
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+    }
+
+    .lead {
+      margin: 0;
+      max-width: 72ch;
+      color: var(--muted);
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .meta-item {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px 12px;
+      background: #fbfdfc;
+      font-size: 0.92rem;
+    }
+
+    .meta-item strong {
+      display: block;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #687b78;
+      margin-bottom: 2px;
+    }
+
+    .card { padding: 22px; }
+    h2 { margin: 0 0 8px; font-size: 1.08rem; letter-spacing: 0.01em; }
+
+    section + section {
+      margin-top: 18px;
+      padding-top: 18px;
+      border-top: 1px dashed #cfddd8;
+    }
+
+    p,
+    li {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    ul {
+      margin: 8px 0 0;
+      padding-left: 1.1rem;
+    }
+
+    li + li { margin-top: 6px; }
+
+    a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover { text-decoration: underline; }
+
+    .note {
+      margin-top: 16px;
+      border: 1px solid #bfe2d8;
+      background: #eef9f5;
+      color: #0f675f;
+      border-radius: 12px;
+      padding: 11px 12px;
+      font-size: 0.92rem;
+    }
+
+    .footer {
+      margin-top: 16px;
+      text-align: center;
+      color: #6c7d7a;
+      font-size: 0.88rem;
+    }
+
+    @media (max-width: 640px) {
+      .wrap { width: min(980px, 100% - 18px); }
+      .hero,
+      .card { border-radius: 14px; }
+      .hero { padding: 18px; }
+      .card { padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <div class="chips">
+        <span class="chip">App mobile</span>
+        <span class="chip">GDPR</span>
+        <span class="chip">Cloud opzionale</span>
+      </div>
+      <h1>Privacy Policy - FoodExpire</h1>
+      <p class="lead">
+        Questa informativa descrive come <strong>FoodExpire</strong> tratta i dati necessari per organizzare
+        prodotti, scadenze, dispense e liste della spesa, incluse le funzioni cloud e collaborative opzionali.
+      </p>
+      <div class="meta">
+        <div class="meta-item">
+          <strong>Ultimo aggiornamento</strong>
+          26 luglio 2026
+        </div>
+        <div class="meta-item">
+          <strong>Ambito</strong>
+          Applicazione iOS e servizi collegati
+        </div>
+        <div class="meta-item">
+          <strong>Titolare</strong>
+          Roberto Chiarella
+        </div>
+      </div>
+    </header>
+
+    <article class="card">
+      <section>
+        <h2>1. Titolare del trattamento</h2>
+        <p>
+          Il titolare del trattamento e responsabile del servizio e' Roberto Chiarella.
+          Per richieste relative alla privacy, all'accesso o alla cancellazione dei dati puoi contattare il titolare tramite
+          <a href="https://github.com/robchdev" target="_blank" rel="noopener noreferrer">github.com/robchdev</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>2. Dati conservati sul dispositivo</h2>
+        <p>FoodExpire puo' salvare localmente:</p>
+        <ul>
+          <li>prodotti, codici a barre, categorie, quantita', prezzi e date di scadenza;</li>
+          <li>liste della spesa, preferenze, cronologia dei consumi e ricette salvate;</li>
+          <li>immagini dei prodotti selezionate o acquisite dall'utente;</li>
+          <li>impostazioni dell'app, notifiche programmate e configurazione delle dispense.</li>
+        </ul>
+        <p style="margin-top:8px">
+          Questi dati restano sul dispositivo finche' l'utente non li elimina, non cancella i dati dell'app
+          o non disinstalla FoodExpire, salvo l'uso volontario delle funzioni cloud descritte di seguito.
+        </p>
+      </section>
+
+      <section>
+        <h2>3. Sincronizzazione cloud e dispense condivise</h2>
+        <p>
+          La sincronizzazione cloud e' opzionale. Quando viene attivata, FoodExpire usa Firebase per autenticazione,
+          backup, ripristino e collaborazione tra membri di una dispensa.
+        </p>
+        <ul>
+          <li>puo' essere creato un identificativo anonimo Firebase associato al dispositivo;</li>
+          <li>se l'utente sceglie Apple o Google, possono essere trattati identificativo account, provider ed email;</li>
+          <li>prodotti, categorie, eventi, ricette e metadati della dispensa possono essere archiviati su Firebase;</li>
+          <li>nelle dispense condivise, i dati inseriti sono visibili agli altri membri autorizzati.</li>
+        </ul>
+        <p style="margin-top:8px">
+          La disattivazione della sincronizzazione interrompe i nuovi trasferimenti ma non elimina automaticamente
+          i dati gia' presenti nel cloud. Per richiederne la cancellazione puoi usare il contatto indicato al punto 1.
+        </p>
+      </section>
+
+      <section>
+        <h2>4. Fotocamera, foto, scansione e notifiche</h2>
+        <ul>
+          <li>
+            La fotocamera viene usata solo dopo autorizzazione per leggere codici a barre e date di scadenza.
+            Le immagini acquisite per il riconoscimento sono elaborate per fornire la funzione richiesta.
+          </li>
+          <li>
+            L'accesso alla libreria foto avviene solo su richiesta dell'utente per associare immagini ai prodotti.
+          </li>
+          <li>
+            Le notifiche locali vengono usate, previo consenso, per ricordare scadenze e riepiloghi configurati.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>5. Servizi di terze parti</h2>
+        <p>FoodExpire puo' comunicare con i seguenti servizi:</p>
+        <ul>
+          <li>
+            <strong>Google Firebase</strong> per autenticazione e funzioni cloud -
+            <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener noreferrer">Privacy e sicurezza Firebase</a>.
+          </li>
+          <li>
+            <strong>Google e Apple</strong> per l'accesso account scelto dall'utente -
+            <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Google</a> e
+            <a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener noreferrer">Privacy Apple</a>.
+          </li>
+          <li>
+            <strong>Open Food Facts</strong> per cercare informazioni pubbliche associate ai prodotti e ai codici a barre -
+            <a href="https://world.openfoodfacts.org/privacy" target="_blank" rel="noopener noreferrer">Privacy Open Food Facts</a>.
+          </li>
+          <li>
+            <strong>Amazon</strong> quando l'utente apre volontariamente un collegamento esterno di ricerca prodotto -
+            <a href="https://www.amazon.it/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ" target="_blank" rel="noopener noreferrer">Informativa privacy Amazon</a>.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>6. Pubblicita' e consenso</h2>
+        <p>
+          FoodExpire utilizza Google AdMob per mostrare banner, annunci interstitial e annunci con premio.
+          AdMob puo' trattare identificativi del dispositivo, informazioni tecniche, interazioni con gli annunci
+          e dati necessari alla prevenzione delle frodi, secondo le impostazioni disponibili e i consensi richiesti.
+        </p>
+        <p style="margin-top:8px">
+          Nei territori in cui e' richiesto, l'app presenta le opzioni di consenso fornite dalla piattaforma Google.
+          Gli annunci vengono richiesti solo quando il relativo SDK comunica che possono essere mostrati.
+          Consulta la <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy di Google</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>7. Finalita' e base giuridica</h2>
+        <ul>
+          <li>fornire le funzioni richieste e salvare le preferenze dell'utente;</li>
+          <li>sincronizzare e condividere i dati quando l'utente attiva volontariamente tali funzioni;</li>
+          <li>mantenere sicurezza, affidabilita' e prevenzione degli abusi;</li>
+          <li>mostrare pubblicita' per sostenere il servizio, previo consenso quando richiesto.</li>
+        </ul>
+        <p style="margin-top:8px">
+          Le basi giuridiche applicabili sono l'esecuzione del servizio richiesto, l'interesse legittimo alla sicurezza
+          e al funzionamento dell'app e il consenso, quando necessario per pubblicita' o permessi del dispositivo.
+        </p>
+      </section>
+
+      <section>
+        <h2>8. Conservazione e cancellazione</h2>
+        <ul>
+          <li>I dati locali restano sul dispositivo fino alla loro eliminazione o alla disinstallazione dell'app.</li>
+          <li>I dati cloud restano disponibili per backup e condivisione finche' l'utente non ne richiede la cancellazione.</li>
+          <li>I dati gestiti da terze parti seguono i tempi previsti dalle rispettive informative.</li>
+        </ul>
+        <p style="margin-top:8px">
+          Per cancellare i dati locali puoi usare le funzioni disponibili nell'app o rimuovere FoodExpire.
+          Per la cancellazione dei dati cloud e dell'associazione account puoi inviare una richiesta tramite il contatto al punto 1.
+        </p>
+      </section>
+
+      <section>
+        <h2>9. Sicurezza e trasferimenti</h2>
+        <p>
+          Sono adottate misure ragionevoli per limitare accessi non autorizzati e ridurre i dati trasferiti.
+          I fornitori terzi possono trattare dati in Paesi diversi da quello dell'utente, applicando le garanzie
+          descritte nelle rispettive informative.
+        </p>
+      </section>
+
+      <section>
+        <h2>10. Diritti dell'utente</h2>
+        <p>
+          Se applicabile, l'utente puo' chiedere accesso, rettifica, cancellazione, limitazione, opposizione
+          e portabilita' dei dati, nonche' revocare il consenso senza pregiudicare i trattamenti gia' effettuati.
+          E' inoltre possibile presentare reclamo all'autorita' di controllo competente.
+        </p>
+      </section>
+
+      <section>
+        <h2>11. Minori</h2>
+        <p>
+          FoodExpire non e' progettata per raccogliere intenzionalmente dati personali di minori.
+          In caso di segnalazione, i dati saranno rimossi nei limiti tecnicamente possibili.
+        </p>
+      </section>
+
+      <section>
+        <h2>12. Aggiornamenti della policy</h2>
+        <p>
+          Questa informativa puo' essere aggiornata quando cambiano funzioni, servizi o obblighi applicabili.
+          Le modifiche diventano efficaci dalla data di pubblicazione indicata in questa pagina.
+        </p>
+      </section>
+
+      <p class="note">
+        Questa pagina e' la Privacy Policy ufficiale di FoodExpire.
+      </p>
+    </article>
+
+    <p class="footer">Privacy Policy - FoodExpire</p>
+  </main>
+</body>
+</html>
