@@ -197,7 +197,7 @@
       <div class="meta">
         <div class="meta-item">
           <strong>Ultimo aggiornamento</strong>
-          1 maggio 2026
+          5 ottobre 2026
         </div>
         <div class="meta-item">
           <strong>Ambito</strong>
@@ -214,54 +214,81 @@
       <section>
         <h2>1. Titolare del trattamento</h2>
         <p>
-          Il titolare del trattamento e responsabile del servizio e' Roberto Chiarella.
-          Per richieste relative alla privacy puoi contattare il titolare tramite
-          <a href="https://github.com/robchdev" target="_blank" rel="noopener noreferrer">github.com/robchdev</a>.
+          Il titolare del trattamento e' Roberto Chiarella, sviluppatore indipendente di Guanix.
+          Per richieste relative alla privacy scrivi a
+          <a href="mailto:roberto.chiarelladev@gmail.com">roberto.chiarelladev@gmail.com</a>.
+        </p>
+        <p style="margin-top:8px">
+          Guanix non richiede un account e non dispone di un server proprietario che archivia le conversazioni.
+          Le funzioni locali elaborano i contenuti sul dispositivo o sul computer personale configurato dall'utente.
         </p>
       </section>
 
       <section>
-        <h2>2. Quali dati possono essere trattati</h2>
+        <h2>2. Dati trattati e finalita'</h2>
         <ul>
-          <li><strong>Dati tecnici essenziali</strong> (es. informazioni del dispositivo, crash e log tecnici) per sicurezza e stabilita'.</li>
-          <li><strong>Dati pubblicitari</strong> tramite Google AdMob nelle app supportate, secondo le impostazioni del dispositivo e i consensi richiesti.</li>
-          <li><strong>Dati locali dell'utente</strong> (es. chat, preferenze, cronologia locale) salvati sul dispositivo.</li>
-          <li><strong>Dati di navigazione del sito</strong> (es. log tecnici del browser/server necessari alla fruizione della pagina).</li>
-        </ul>
-        <p style="margin-top:8px">Se l'utente configura provider AI esterni (es. Ollama, Hugging Face o LM Studio), i prompt e gli allegati vengono inviati solo ai servizi scelti dall'utente.</p>
-      </section>
-
-      <section>
-        <h2>3. Finalita' del trattamento</h2>
-        <ul>
-          <li>Fornire il servizio su sito e app.</li>
-          <li>Mantenere prestazioni, sicurezza e affidabilita'.</li>
-          <li>Mostrare annunci pubblicitari per sostenere il progetto (quando presenti).</li>
-          <li>Gestire richieste utente e supporto.</li>
+          <li><strong>Chat, allegati, trascrizioni e memorie:</strong> generare le risposte e conservare sul dispositivo la cronologia richiesta dall'utente.</li>
+          <li><strong>Host SSH, utente e cronologia comandi/agente:</strong> collegarsi ai computer indicati e rendere disponibili le attivita' recenti. <strong>La password SSH non viene salvata.</strong></li>
+          <li><strong>Token e chiavi API</strong> (es. token Hugging Face, chiavi Ollama): autenticarsi presso il provider scelto. Sono conservati nel <strong>portachiavi protetto di iOS (Keychain)</strong>, non nella normale memoria delle preferenze, e non vengono proposti al salvataggio nell'app Password di iOS.</li>
+          <li><strong>Microfono, voce, foto e rete locale:</strong> usati soltanto quando l'utente attiva la funzione corrispondente.</li>
+          <li><strong>Dati pubblicitari e tecnici:</strong> mostrare e misurare annunci tramite Google AdMob secondo le preferenze raccolte da Google UMP.</li>
+          <li><strong>Email di assistenza:</strong> rispondere alle richieste inviate volontariamente al supporto.</li>
+          <li><strong>Dati di navigazione del sito:</strong> log tecnici necessari alla fruizione delle pagine, gestiti da GitHub Pages.</li>
         </ul>
       </section>
 
       <section>
-        <h2>4. Base giuridica</h2>
+        <h2>3. Provider AI remoti e consenso</h2>
         <p>
-          Il trattamento avviene in base all'esecuzione del servizio, all'interesse legittimo del titolare
-          e, quando necessario, al consenso dell'utente (in particolare per trattamenti pubblicitari personalizzati).
+          Guanix puo' funzionare interamente in locale. Se l'utente sceglie un provider remoto
+          (Hugging Face, Ollama, LM Studio o MLX), prima del primo invio l'app mostra una richiesta di
+          consenso esplicito che indica quali dati possono essere inviati (testo della chat, eventuali file
+          o immagini allegati, eventuale trascrizione vocale) e il destinatario esatto, cioe' il modello o
+          l'indirizzo configurato.
         </p>
-      </section>
-
-      <section>
-        <h2>5. Servizi di terze parti</h2>
-        <p>Per la componente pubblicitaria possono essere usati servizi terzi come:</p>
         <ul>
-          <li>
-            <strong>Google AdMob</strong> -
-            <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a>
-          </li>
+          <li>I dati vengono inviati esclusivamente all'endpoint mostrato nella richiesta di consenso.</li>
+          <li>Il consenso vale solo per quel provider e quell'endpoint: <strong>se cambi provider, modello Hugging Face o indirizzo del server, il consenso viene richiesto di nuovo.</strong></li>
+          <li>Il consenso viene richiesto di nuovo anche quando cambia questa informativa in modo rilevante per l'invio remoto.</li>
+          <li>Puoi revocare il consenso in qualsiasi momento da Impostazioni: dopo la revoca nessun nuovo contenuto viene inviato al provider remoto senza una nuova autorizzazione.</li>
+          <li>Se rifiuti, puoi continuare a usare i modelli locali.</li>
         </ul>
       </section>
 
       <section>
-        <h2>6. Cookie e tecnologie simili</h2>
+        <h2>4. Basi giuridiche</h2>
+        <ul>
+          <li>Esecuzione della funzione richiesta dall'utente per elaborazioni locali, connessioni e assistenza.</li>
+          <li>Consenso esplicito prima di inviare contenuti a uno specifico provider AI remoto.</li>
+          <li>Consenso e, dove applicabile, preferenze o interessi legittimi gestiti tramite Google UMP per la pubblicita'.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>5. Destinatari e servizi di terze parti</h2>
+        <ul>
+          <li><strong>Hugging Face</strong> - <a href="https://huggingface.co/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> (solo se scelto come provider).</li>
+          <li><strong>Ollama</strong> - <a href="https://ollama.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>, oppure server Ollama, LM Studio o MLX gestiti dall'utente.</li>
+          <li><strong>Google AdMob e Google UMP</strong> - <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a>.</li>
+        </ul>
+        <p style="margin-top:8px">
+          Alcuni fornitori possono trattare dati fuori dallo Spazio economico europeo secondo le garanzie indicate
+          nelle rispettive informative. Guanix non vende le conversazioni ne' le usa per addestrare propri modelli.
+        </p>
+      </section>
+
+      <section>
+        <h2>6. Pubblicita' e tracciamento</h2>
+        <p>
+          Nei Paesi in cui e' richiesto, Google UMP raccoglie le tue preferenze prima di qualsiasi richiesta
+          pubblicitaria. La richiesta di tracciamento di iOS (ATT) compare solo se scegli annunci personalizzati;
+          se la rifiuti, gli annunci restano non personalizzati. Puoi modificare le scelte in qualsiasi momento da
+          Impostazioni &gt; "Privacy ads (GDPR)".
+        </p>
+      </section>
+
+      <section>
+        <h2>7. Cookie e tecnologie simili</h2>
         <p>
           Il sito non utilizza cookie di profilazione proprietari. Eventuali cookie tecnici o tecnologie equivalenti
           possono essere usati per il corretto funzionamento del servizio o da terze parti coinvolte nell'erogazione.
@@ -269,39 +296,43 @@
       </section>
 
       <section>
-        <h2>7. Conservazione dei dati</h2>
+        <h2>8. Conservazione, sicurezza e cancellazione</h2>
         <ul>
-          <li>I dati locali restano sul tuo dispositivo finche' non li elimini o disinstalli l'app.</li>
-          <li>I dati gestiti da servizi terzi seguono i tempi di conservazione previsti dalle rispettive policy.</li>
+          <li>Chat, memorie, cronologie e configurazioni restano sul dispositivo finche' non le cancelli o disinstalli l'app.</li>
+          <li>Puoi eliminare chat e memorie singolarmente.</li>
+          <li>In Impostazioni e' disponibile <strong>"Cancella tutti i dati personali"</strong>, che rimuove chat, memorie, cronologie, bot, host recenti, immagini salvate dall'utente, token e chiavi API conservati nel portachiavi.</li>
+          <li>I dati inviati a servizi esterni seguono i tempi di conservazione del destinatario scelto.</li>
         </ul>
       </section>
 
       <section>
-        <h2>8. Diritti dell'utente (GDPR)</h2>
+        <h2>9. Diritti dell'utente (GDPR)</h2>
         <p>
-          Se applicabile, puoi esercitare i diritti di accesso, rettifica, cancellazione, limitazione,
-          opposizione e portabilita' dei dati, oltre al diritto di revocare il consenso ove prestato.
+          Puoi esercitare i diritti di accesso, rettifica, cancellazione, limitazione, opposizione e portabilita'
+          sui dati eventualmente ricevuti dal titolare scrivendo al contatto privacy, oltre a revocare in qualsiasi
+          momento i consensi prestati. Puoi inoltre proporre reclamo al
+          <a href="https://www.garanteprivacy.it/" target="_blank" rel="noopener noreferrer">Garante per la protezione dei dati personali</a>.
         </p>
       </section>
 
       <section>
-        <h2>9. Minori</h2>
+        <h2>10. Minori</h2>
         <p>
-          I servizi non sono destinati alla raccolta intenzionale di dati personali di minori.
+          Guanix non e' destinata a minori di 16 anni e non raccoglie intenzionalmente dati personali di minori.
           In caso di segnalazioni, i dati saranno rimossi nei limiti tecnicamente possibili.
         </p>
       </section>
 
       <section>
-        <h2>10. Aggiornamenti della policy</h2>
+        <h2>11. Aggiornamenti della policy</h2>
         <p>
-          Questa informativa puo' essere aggiornata nel tempo. Le modifiche diventano efficaci dalla data
-          di pubblicazione in questa pagina.
+          Questa informativa puo' essere aggiornata quando cambiano funzioni o fornitori. Le modifiche diventano
+          efficaci dalla data di pubblicazione in questa pagina; la data in alto indica la versione piu' recente.
         </p>
       </section>
 
       <p class="note">
-        Questa pagina e' la policy di riferimento per Guanix.
+        Questa pagina e' la policy di riferimento per Guanix. Assistenza: <a href="support.html">pagina di supporto</a>.
       </p>
     </article>
 
