@@ -1,0 +1,697 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Guanix è la tua AI sul telefono: privata, flessibile e disponibile anche offline.">
+  <meta name="theme-color" content="#fff7ef" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0d121c" media="(prefers-color-scheme: dark)">
+  <title>Guanix — La tua AI sul telefono</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg-1: #fff7ef;
+      --bg-2: #eef7ff;
+      --card: #ffffff;
+      --card-soft: rgba(255, 255, 255, 0.72);
+      --text: #1f2633;
+      --muted: #586173;
+      --primary: #0f7bff;
+      --primary-strong: #0969dc;
+      --primary-soft: #e9f2ff;
+      --line: #e4e8f1;
+      --radius: 18px;
+      --radius-lg: 30px;
+      --shadow: 0 18px 45px rgba(16, 28, 52, 0.12);
+      --max-width: 1120px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+      overflow-x: hidden;
+    }
+
+    body {
+      margin: 0;
+      min-width: 0;
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+      background:
+        radial-gradient(1100px 520px at -12% -10%, #ffe8cc 0%, transparent 58%),
+        radial-gradient(900px 460px at 112% -5%, #dcecff 0%, transparent 58%),
+        linear-gradient(180deg, var(--bg-1), var(--bg-2));
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+
+    a { color: inherit; }
+
+    .container {
+      width: min(var(--max-width), calc(100% - 32px));
+      margin-inline: auto;
+    }
+
+    .site-header {
+      padding: 18px 0;
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 760;
+      letter-spacing: -0.02em;
+      text-decoration: none;
+    }
+
+    .brand img {
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      box-shadow: 0 8px 20px rgba(15, 123, 255, 0.18);
+    }
+
+    .nav-link {
+      color: var(--muted);
+      font-size: 0.94rem;
+      font-weight: 650;
+      text-decoration: none;
+    }
+
+    .nav-link:hover,
+    .nav-link:focus-visible { color: var(--primary); }
+
+    .hero {
+      display: grid;
+      gap: 42px;
+      align-items: center;
+      padding: 56px 0 78px;
+    }
+
+    .hero-copy { text-align: center; }
+
+    .app-icon {
+      width: 96px;
+      height: 96px;
+      margin: 0 auto 24px;
+      border-radius: 24px;
+      box-shadow: 0 20px 44px rgba(15, 123, 255, 0.2);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0 0 16px;
+      padding: 7px 12px;
+      border: 1px solid rgba(15, 123, 255, 0.18);
+      border-radius: 999px;
+      color: var(--primary-strong);
+      background: var(--primary-soft);
+      font-size: 0.82rem;
+      font-weight: 740;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    h3,
+    p { margin-top: 0; }
+
+    h1 {
+      margin-bottom: 18px;
+      font-size: clamp(3rem, 13vw, 5.8rem);
+      line-height: 0.98;
+      letter-spacing: -0.065em;
+    }
+
+    .hero-lead {
+      max-width: 660px;
+      margin: 0 auto 28px;
+      color: var(--muted);
+      font-size: clamp(1.2rem, 5vw, 1.7rem);
+      line-height: 1.35;
+      letter-spacing: -0.025em;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 52px;
+      padding: 13px 22px;
+      border-radius: 14px;
+      color: #ffffff;
+      background: var(--primary);
+      box-shadow: 0 12px 28px rgba(15, 123, 255, 0.28);
+      font-weight: 720;
+      text-decoration: none;
+      transition: transform 160ms ease, background 160ms ease, box-shadow 160ms ease;
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+      background: var(--primary-strong);
+      box-shadow: 0 16px 34px rgba(15, 123, 255, 0.34);
+    }
+
+    .button:focus-visible,
+    a:focus-visible {
+      outline: 3px solid var(--primary);
+      outline-offset: 4px;
+    }
+
+    .hero-visual {
+      position: relative;
+      max-width: 320px;
+      margin-inline: auto;
+    }
+
+    .hero-visual::before {
+      position: absolute;
+      inset: 9% -16% 5%;
+      z-index: -1;
+      border-radius: 50%;
+      background: rgba(15, 123, 255, 0.13);
+      filter: blur(26px);
+      content: "";
+    }
+
+    .phone-shot {
+      border: 8px solid #1b2230;
+      border-radius: 34px;
+      box-shadow: 0 30px 70px rgba(16, 28, 52, 0.24);
+    }
+
+    section { padding: 72px 0; }
+
+    .section-heading {
+      max-width: 700px;
+      margin: 0 auto 36px;
+      text-align: center;
+    }
+
+    .section-heading h2 {
+      margin-bottom: 12px;
+      font-size: clamp(2rem, 8vw, 3.25rem);
+      line-height: 1.08;
+      letter-spacing: -0.045em;
+    }
+
+    .section-heading p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 1.08rem;
+    }
+
+    .engine-grid,
+    .feature-grid {
+      display: grid;
+      gap: 14px;
+    }
+
+    .engine,
+    .feature,
+    .privacy-card {
+      border: 1px solid var(--line);
+      background: var(--card-soft);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+    }
+
+    .engine {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 20px;
+      border-radius: var(--radius);
+    }
+
+    .engine-mark,
+    .feature-icon {
+      display: grid;
+      flex: 0 0 auto;
+      place-items: center;
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
+      color: var(--primary-strong);
+      background: var(--primary-soft);
+      font-weight: 800;
+    }
+
+    .engine h3,
+    .feature h3 {
+      margin-bottom: 4px;
+      font-size: 1.05rem;
+      line-height: 1.3;
+    }
+
+    .engine p,
+    .feature p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    .features-wrap {
+      padding: 38px 20px;
+      border: 1px solid rgba(15, 123, 255, 0.12);
+      border-radius: var(--radius-lg);
+      background: linear-gradient(145deg, rgba(255, 255, 255, 0.68), rgba(233, 242, 255, 0.7));
+    }
+
+    .feature {
+      padding: 24px;
+      border-radius: var(--radius);
+    }
+
+    .feature-icon {
+      margin-bottom: 18px;
+      font-size: 1.15rem;
+    }
+
+    .privacy-card {
+      display: grid;
+      gap: 28px;
+      padding: 30px 22px;
+      border-radius: var(--radius-lg);
+    }
+
+    .privacy-copy h2 {
+      margin-bottom: 14px;
+      font-size: clamp(2rem, 8vw, 3rem);
+      line-height: 1.08;
+      letter-spacing: -0.045em;
+    }
+
+    .privacy-copy > p {
+      color: var(--muted);
+      font-size: 1.06rem;
+    }
+
+    .privacy-list {
+      display: grid;
+      gap: 14px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .privacy-list li {
+      position: relative;
+      padding-left: 31px;
+    }
+
+    .privacy-list li::before {
+      position: absolute;
+      top: 0.12em;
+      left: 0;
+      display: grid;
+      place-items: center;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      color: #ffffff;
+      background: var(--primary);
+      content: "✓";
+      font-size: 0.75rem;
+      font-weight: 900;
+    }
+
+    .privacy-badge {
+      display: grid;
+      place-items: center;
+      min-height: 210px;
+      border-radius: 22px;
+      color: var(--primary-strong);
+      background:
+        radial-gradient(circle at 50% 35%, rgba(255,255,255,.9), transparent 35%),
+        var(--primary-soft);
+      text-align: center;
+    }
+
+    .shield {
+      font-size: 4.5rem;
+      line-height: 1;
+    }
+
+    .privacy-badge strong {
+      display: block;
+      margin-top: 12px;
+      font-size: 1.1rem;
+    }
+
+    .gallery {
+      display: grid;
+      grid-auto-flow: column;
+      grid-auto-columns: minmax(245px, 78%);
+      gap: 18px;
+      padding: 8px 16px 28px;
+      overflow-x: auto;
+      overscroll-behavior-inline: contain;
+      scroll-snap-type: inline mandatory;
+      scrollbar-color: var(--primary) transparent;
+    }
+
+    .gallery figure {
+      margin: 0;
+      scroll-snap-align: center;
+    }
+
+    .gallery img {
+      width: 100%;
+      border: 6px solid #1b2230;
+      border-radius: 28px;
+      box-shadow: 0 18px 42px rgba(16, 28, 52, 0.18);
+    }
+
+    .gallery figcaption {
+      padding-top: 12px;
+      color: var(--muted);
+      font-size: 0.92rem;
+      font-weight: 650;
+      text-align: center;
+    }
+
+    .cta {
+      padding-bottom: 92px;
+      text-align: center;
+    }
+
+    .cta-box {
+      padding: 42px 22px;
+      border-radius: var(--radius-lg);
+      color: #ffffff;
+      background: linear-gradient(135deg, #0969dc, #0f7bff 55%, #489cff);
+      box-shadow: 0 24px 56px rgba(15, 123, 255, 0.28);
+    }
+
+    .cta-box h2 {
+      margin-bottom: 12px;
+      font-size: clamp(2rem, 8vw, 3rem);
+      line-height: 1.08;
+      letter-spacing: -0.045em;
+    }
+
+    .cta-box p {
+      max-width: 580px;
+      margin: 0 auto 24px;
+      color: rgba(255, 255, 255, 0.88);
+    }
+
+    .cta-box .button {
+      color: var(--primary-strong);
+      background: #ffffff;
+      box-shadow: none;
+    }
+
+    footer {
+      border-top: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.36);
+    }
+
+    .footer-inner {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      padding: 28px 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+      text-align: center;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px 20px;
+    }
+
+    .footer-links a { text-underline-offset: 3px; }
+
+    @media (min-width: 640px) {
+      .container { width: min(var(--max-width), calc(100% - 48px)); }
+      .engine-grid,
+      .feature-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .privacy-card { padding: 42px; }
+      .gallery {
+        grid-auto-columns: minmax(260px, 42%);
+        padding-inline: max(24px, calc((100vw - var(--max-width)) / 2));
+      }
+    }
+
+    @media (min-width: 860px) {
+      .hero {
+        grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.7fr);
+        min-height: 670px;
+        padding-top: 40px;
+      }
+      .hero-copy { text-align: left; }
+      .app-icon { margin-inline: 0; }
+      .hero-lead { margin-inline: 0; }
+      .engine-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .feature-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .privacy-card {
+        grid-template-columns: minmax(0, 1.5fr) minmax(250px, 0.65fr);
+        align-items: center;
+      }
+      .gallery {
+        grid-auto-flow: initial;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        width: min(var(--max-width), calc(100% - 48px));
+        margin-inline: auto;
+        padding-inline: 0;
+        overflow: visible;
+      }
+      .footer-inner {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        text-align: left;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .button { transition: none; }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-1: #0d121c;
+        --bg-2: #101b2a;
+        --card: #151d2a;
+        --card-soft: rgba(21, 29, 42, 0.82);
+        --text: #f4f7fb;
+        --muted: #b7c1d1;
+        --primary: #4d9cff;
+        --primary-strong: #7eb7ff;
+        --primary-soft: #162b47;
+        --line: #293548;
+        --shadow: 0 18px 45px rgba(0, 0, 0, 0.28);
+      }
+
+      body {
+        background:
+          radial-gradient(1100px 520px at -12% -10%, #332515 0%, transparent 58%),
+          radial-gradient(900px 460px at 112% -5%, #132d4c 0%, transparent 58%),
+          linear-gradient(180deg, var(--bg-1), var(--bg-2));
+      }
+
+      .features-wrap {
+        background: linear-gradient(145deg, rgba(21, 29, 42, 0.75), rgba(22, 43, 71, 0.72));
+      }
+
+      .phone-shot,
+      .gallery img { border-color: #05080d; }
+
+      footer { background: rgba(8, 13, 21, 0.4); }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav container" aria-label="Navigazione principale">
+      <a class="brand" href="#top" aria-label="Guanix, torna all'inizio">
+        <img src="assets/icon.png" alt="Icona di Guanix" width="256" height="256" loading="lazy">
+        <span>Guanix</span>
+      </a>
+      <a class="nav-link" href="#privacy">Privacy</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero container" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <img class="app-icon" src="assets/icon.png" alt="Icona dell'app Guanix" width="256" height="256" loading="lazy">
+        <p class="eyebrow">AI per iPhone</p>
+        <h1 id="hero-title">Guanix</h1>
+        <p class="hero-lead">La tua AI sul telefono, privata e anche offline.</p>
+        <!-- TODO: sostituire # con l'URL App Store di Guanix -->
+        <a class="button" href="#">Scarica su App Store</a>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <img class="phone-shot" src="assets/01-la-tua-ai.jpg" alt="" width="554" height="1200" loading="lazy">
+      </div>
+    </section>
+
+    <section id="motori" aria-labelledby="motori-title">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">Scegli tu il motore</p>
+          <h2 id="motori-title">Una sola app, tutte le tue AI</h2>
+          <p>Usa modelli sul dispositivo o collegati ai servizi che preferisci, a casa e in mobilità.</p>
+        </div>
+        <div class="engine-grid">
+          <article class="engine">
+            <span class="engine-mark" aria-hidden="true">G</span>
+            <div><h3>GGUF sul dispositivo</h3><p>Modelli locali direttamente su iPhone, anche senza connessione.</p></div>
+          </article>
+          <article class="engine">
+            <span class="engine-mark" aria-hidden="true">A</span>
+            <div><h3>Apple Intelligence</h3><p>Accedi ai modelli Apple supportati dal tuo dispositivo.</p></div>
+          </article>
+          <article class="engine">
+            <span class="engine-mark" aria-hidden="true">O</span>
+            <div><h3>Ollama</h3><p>Collegati al tuo server personale oppure a Ollama Cloud.</p></div>
+          </article>
+          <article class="engine">
+            <span class="engine-mark" aria-hidden="true">HF</span>
+            <div><h3>Hugging Face</h3><p>Usa i modelli disponibili tramite Hugging Face.</p></div>
+          </article>
+          <article class="engine">
+            <span class="engine-mark" aria-hidden="true">LM</span>
+            <div><h3>LM Studio</h3><p>Connettiti al server LM Studio sulla tua rete.</p></div>
+          </article>
+          <article class="engine">
+            <span class="engine-mark" aria-hidden="true">MX</span>
+            <div><h3>MLX su Mac</h3><p>Porta su iPhone i modelli eseguiti da un server MLX sul Mac.</p></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="funzioni" aria-labelledby="funzioni-title">
+      <div class="container features-wrap">
+        <div class="section-heading">
+          <p class="eyebrow">Più di una chat</p>
+          <h2 id="funzioni-title">L’AI che lavora come vuoi tu</h2>
+          <p>Da una conversazione veloce agli strumenti per sviluppare, tutto resta a portata di mano.</p>
+        </div>
+        <div class="feature-grid">
+          <article class="feature">
+            <span class="feature-icon" aria-hidden="true">✦</span>
+            <h3>Chat locale o remota</h3>
+            <p>Parla con i modelli installati sul telefono o con quelli disponibili sui tuoi server.</p>
+          </article>
+          <article class="feature">
+            <span class="feature-icon" aria-hidden="true">◉</span>
+            <h3>Modalità vocale</h3>
+            <p>Interagisci a voce quando vuoi una conversazione più naturale e immediata.</p>
+          </article>
+          <article class="feature">
+            <span class="feature-icon" aria-hidden="true">∞</span>
+            <h3>Memoria globale</h3>
+            <p>Mantieni informazioni utili disponibili tra le diverse conversazioni.</p>
+          </article>
+          <article class="feature">
+            <span class="feature-icon" aria-hidden="true">&gt;_</span>
+            <h3>Agente e terminale SSH</h3>
+            <p>Lavora sul codice con un agente e accedi al terminale dei tuoi sistemi via SSH.</p>
+          </article>
+          <article class="feature">
+            <span class="feature-icon" aria-hidden="true">⌁</span>
+            <h3>Ricerca automatica</h3>
+            <p>Trova automaticamente i server AI disponibili sulla rete locale.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="privacy" aria-labelledby="privacy-title">
+      <div class="container privacy-card">
+        <div class="privacy-copy">
+          <p class="eyebrow">Privacy al centro</p>
+          <h2 id="privacy-title">I tuoi dati restano sotto il tuo controllo</h2>
+          <p>Guanix distingue con chiarezza ciò che avviene sul dispositivo da ciò che richiede un servizio remoto.</p>
+          <ul class="privacy-list">
+            <li>I modelli locali non inviano dati all’esterno.</li>
+            <li>Prima di usare un servizio remoto, l’app chiede il tuo consenso.</li>
+            <li>Token e chiavi API restano protetti nel Keychain di iOS.</li>
+            <li>Puoi cancellare tutti i dati locali dalle Impostazioni.</li>
+          </ul>
+        </div>
+        <div class="privacy-badge" aria-hidden="true">
+          <div><span class="shield">◈</span><strong>Privata per scelta</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="gallery-title">
+      <div class="section-heading container">
+        <p class="eyebrow">Dentro Guanix</p>
+        <h2 id="gallery-title">Scopri l’app</h2>
+        <p>Un’interfaccia pensata per passare con semplicità dalla chat agli strumenti più avanzati.</p>
+      </div>
+      <div class="gallery" role="region" aria-label="Screenshot di Guanix" tabindex="0">
+        <figure>
+          <img src="assets/01-la-tua-ai.jpg" alt="Schermata promozionale: la tua AI con Guanix" width="554" height="1200" loading="lazy">
+          <figcaption>La tua AI</figcaption>
+        </figure>
+        <figure>
+          <img src="assets/02-terminale.jpg" alt="Schermata promozionale del terminale di Guanix" width="554" height="1200" loading="lazy">
+          <figcaption>Terminale e codice</figcaption>
+        </figure>
+        <figure>
+          <img src="assets/03-modelli-offline.jpg" alt="Schermata promozionale dei modelli offline di Guanix" width="554" height="1200" loading="lazy">
+          <figcaption>Modelli offline</figcaption>
+        </figure>
+        <figure>
+          <img src="assets/04-il-tuo-stile.jpg" alt="Schermata promozionale delle personalizzazioni di Guanix" width="554" height="1200" loading="lazy">
+          <figcaption>Il tuo stile</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="container cta-box">
+        <h2>La tua AI. Le tue regole.</h2>
+        <p>Scegli dove eseguire i modelli, come interagire e quali servizi collegare.</p>
+        <!-- TODO: sostituire # con l'URL App Store di Guanix -->
+        <a class="button" href="#">Scarica su App Store</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <span>© 2026 Guanix</span>
+      <div class="footer-links" aria-label="Link nel piè di pagina">
+        <a href="privacy-policy.html">Privacy Policy</a>
+        <a href="support.html">Supporto</a>
+        <a href="mailto:roberto.chiarelladev@gmail.com">roberto.chiarelladev@gmail.com</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
